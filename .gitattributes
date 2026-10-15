@@ -1,0 +1,34 @@
+# 改行コードの固定（v1.0.1）
+# clone・checkout したときに LF を CRLF へ変換しない（Windows の core.autocrlf=true でも LF のまま）。
+# tests/test_notebook_sync.py が fortune_notebook.ipynb のバイト列を SHA-256 で検査するため、
+# 改行が変わるとローカルのテストが失敗する。配布 ZIP・Kaggle Dataset とも同じバイト列に揃える。
+* text=auto eol=lf
+
+# テキスト（明示）
+*.py        text eol=lf
+*.md        text eol=lf
+*.json      text eol=lf
+*.ipynb     text eol=lf
+*.csv       text eol=lf
+*.txt       text eol=lf
+*.sh        text eol=lf
+*.js        text eol=lf
+*.sha256    text eol=lf
+LICENSE     text eol=lf
+LICENSE-ASSETS text eol=lf
+.gitignore  text eol=lf
+.gitattributes text eol=lf
+
+# バイナリ（改行変換・テキスト diff の対象外）
+*.webp      binary
+*.jpg       binary
+*.jpeg      binary
+*.png       binary
+*.gif       binary
+*.mp4       binary
+*.ttf       binary
+*.otf       binary
+*.woff      binary
+*.woff2     binary
+*.zip       binary
+*.pdf       binary

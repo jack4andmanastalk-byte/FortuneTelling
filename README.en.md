@@ -61,7 +61,18 @@ people.csv ──▶ Stage A  52 individual readings (calculation → prompt →
 
 ## Quick start on Kaggle
 
-1. Add this repository as a Kaggle Dataset (ZIP of the repository) or Add Input the published dataset
+A published Dataset and Notebook are available (a Kaggle account is all you need):
+
+| Kaggle | URL | Contents |
+|---|---|---|
+| Dataset | <https://www.kaggle.com/datasets/yamadasabro/fortune-dataset> | The distribution of this repository (the v1.0.0 `fortune_dataset_kaggle_v1.0.0.zip`, extracted: code, data, images, intro video) |
+| Notebook | <https://www.kaggle.com/code/yamadasabro/fortunetellingsimulator> | A complete run on that Dataset (code, the output HTML and the log are viewable) |
+
+The easiest path is to **Copy & Edit** the Notebook into your own account, register `GOOGLE_API_KEY`
+under **Add-ons → Secrets** (secrets are not copied), and run the cells from the top.
+To set things up yourself:
+
+1. Add this repository as a Kaggle Dataset (ZIP of the repository) or Add Input the published Dataset above
 2. Import `fortune_dataset/kaggle/fortune_notebook.ipynb` as a Notebook (accelerator **None**)
 3. Register `GOOGLE_API_KEY` (a Gemini API key) under **Add-ons → Secrets** — it is the only secret needed
 4. Run the cells in order: **Cell 0 (bootstrap) → Cell 0.1 (self-test) → Cell 1 (CSV input + Stage A) → Cell N2 (Stage B/C/D + HTML)**

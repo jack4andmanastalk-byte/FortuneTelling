@@ -8,6 +8,10 @@ Dataset として Notebook に接続することだけです。
 どちらかを選びます。
 
 **A. 公開済みの Dataset を使う** — Notebook の *Add Input* で Dataset を追加します。
+公開済みの Dataset は <https://www.kaggle.com/datasets/yamadasabro/fortune-dataset>（v1.0.0 の配布 ZIP を展開したもの）、
+それで完走した Notebook の実行例は <https://www.kaggle.com/code/yamadasabro/fortunetellingsimulator> です。
+実行例を **Copy & Edit** で複製すると、Dataset が接続済みの状態で始められます（Secrets は複製されないので
+`GOOGLE_API_KEY` を登録し直してください）。
 
 **B. 自分で Dataset を作る**
 

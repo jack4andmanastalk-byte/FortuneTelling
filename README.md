@@ -58,7 +58,18 @@ people.csv ──▶ Stage A  個別占術 52 件（計算 → プロンプト �
 
 ## クイックスタート（Kaggle）
 
-1. このリポジトリを ZIP にして Kaggle Dataset として追加するか、公開済みの Dataset を Notebook に Add Input する
+公開済みの Dataset と Notebook をそのまま使えます（Kaggle のアカウントがあれば開けます）。
+
+| Kaggle | URL | 中身 |
+|---|---|---|
+| Dataset | <https://www.kaggle.com/datasets/yamadasabro/fortune-dataset> | このリポジトリの配布物（v1.0.0 の `fortune_dataset_kaggle_v1.0.0.zip` を展開したもの。コード・データ・画像・冒頭動画） |
+| Notebook | <https://www.kaggle.com/code/yamadasabro/fortunetellingsimulator> | 上の Dataset で実際に完走した実行例（コード・出力の HTML・ログが見られます） |
+
+いちばん簡単なのは、Notebook を **Copy & Edit** で自分のアカウントに複製し、**Add-ons → Secrets** に
+`GOOGLE_API_KEY` を登録して（Secret は複製されません）、セルを上から順に実行する方法です。
+自分で用意する場合は次の手順です。
+
+1. このリポジトリを ZIP にして Kaggle Dataset として追加するか、上の公開 Dataset を Notebook に Add Input する
 2. `fortune_dataset/kaggle/fortune_notebook.ipynb` を Notebook として取り込む（アクセラレータ **None**）
 3. **Add-ons → Secrets** に `GOOGLE_API_KEY`（Gemini API キー）を登録する。必要な Secret はこれだけ
 4. セルを **Cell 0（ブートストラップ）→ Cell 0.1（セルフテスト）→ Cell 1（CSV 入力＋Stage A）→ Cell N2（Stage B/C/D と HTML）** の順に実行する

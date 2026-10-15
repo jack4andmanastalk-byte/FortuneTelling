@@ -3,6 +3,17 @@
 このファイルは公開版の変更履歴です。形式は [Keep a Changelog](https://keepachangelog.com/ja/1.1.0/) に、
 版番号は [Semantic Versioning](https://semver.org/lang/ja/) に従います。
 
+## [1.0.1] - 2026-10-15
+
+文書と Git の設定だけの更新です。コード・データ・画像・Notebook に変更はなく、版印（`fortune_dataset/data/dataset_version.json` の
+`build_id`）・配布 ZIP（`fortune_dataset_kaggle_v1.0.0.zip`・SHA-256 `c483dce9…`）・Kaggle Dataset（Version 1）は v1.0.0 のままです。
+
+### 追加
+
+- `.gitattributes`: 改行コードを LF に固定（`* text=auto eol=lf`、画像・動画・フォント・ZIP は `binary`）。Windows で clone しても
+  `fortune_notebook.ipynb` などのバイト列が変わらず、`tests/test_notebook_sync.py` の SHA-256 検査がローカルでも通ります
+- README／README.en／`docs/kaggle_setup.md`: 公開済みの Kaggle Dataset と Notebook（実行例）へのリンクと、Copy & Edit で始める手順
+
 ## [1.0.0] - 2026-10-14
 
 最初の公開版。内部開発版（2026 年 8 月〜10 月）の成果を整理し、公開できる形にまとめました。
