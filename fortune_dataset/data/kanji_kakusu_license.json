@@ -1,0 +1,40 @@
+{
+ "dictionary": "data/kanji_kakusu_combined.json（tools/build_kakusu_dict.py で生成）",
+ "primary": {
+  "source": "KANJIDIC2（Electronic Dictionary Research and Development Group＝EDRDG）",
+  "url": "https://www.edrdg.org/wiki/index.php/KANJIDIC_Project",
+  "file": "kanjidic2.xml.gz（database_version 2026-287・2026-10-14 取得）",
+  "license": "Creative Commons Attribution-ShareAlike 4.0（EDRDG General Dictionary Licence）",
+  "coverage": "JIS X 0208/0212/0213 の 13,108 字。stroke_count の先頭値（常用漢字表に準拠した新字体の画数）。grade 1〜8＝常用漢字・9〜10＝人名用漢字",
+  "attribution": "This package uses the KANJIDIC2 dictionary file. This file is the property of the Electronic Dictionary Research and Development Group, and is used in conformance with the Group's licence."
+ },
+ "fallback": {
+  "source": "Unihan kTotalStrokes（Unicode, Inc.）",
+  "url": "https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip",
+  "file": "Unihan_IRGSources.txt（Unicode 18.0.0）",
+  "license": "Unicode License v3（https://www.unicode.org/license.txt）",
+  "coverage": "KANJIDIC2 に無い CJK 統合漢字 約 89,900 字（複数値のときは先頭値）"
+ },
+ "kana": {
+  "source": "本データセット（学校教育の筆順に基づく標準的な画数・事実情報）",
+  "rule": "濁点 +2・半濁点 +1・小書きは同じ・長音符 1・々 3"
+ },
+ "policy": "KANJIDIC2（新字体・常用漢字表の数え方）を主ソースとし、JIS 外の字を Unihan で補う。康熙字典体の流派（海=10 など）とは数え方が異なるため、UI では「新字体画数ベース」である旨を注記する。",
+ "known_differences_examples": [
+  {
+   "kanji": "海",
+   "kanjidic2": 9,
+   "unihan": 10
+  },
+  {
+   "kanji": "類",
+   "kanjidic2": 18,
+   "unihan": 19
+  },
+  {
+   "kanji": "像",
+   "kanjidic2": 14,
+   "unihan": 13
+  }
+ ]
+}

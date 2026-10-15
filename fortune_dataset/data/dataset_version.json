@@ -1,0 +1,19 @@
+{
+ "build_id": "v1.0.0",
+ "previous_build_id": "2026-10-14-mts5.69",
+ "expected": {
+  "slugs": 53,
+  "deities": 138,
+  "tests": 1157,
+  "notebook_cells": 8,
+  "image_decks": 48,
+  "tones": 3
+ },
+ "notes": [
+  "v1.0.0（2026-10-14）: 最初の公開版。53 占術の計算エンジン（fortunelib）・Gemini による鑑定文生成（Stage A〜D・3 トーン）・画像 891 枚（48 デッキ）付き HTML レポート・Kaggle Notebook（8 セル）・セルフテスト。ライセンスはコードが AGPL-3.0、画像・自作データ・プロンプトが CC BY 4.0（LICENSE / LICENSE-ASSETS / THIRD_PARTY_NOTICES.md）。姓名判断の画数辞書は KANJIDIC2（EDRDG・CC BY-SA 4.0）＋Unihan（Unicode License）から tools/build_kakusu_dict.py で生成。画像ディレクトリは自動探索（環境変数 FORTUNE_ASSETS_DIR → Dataset ルート → /kaggle/input/**/assets/images）。",
+  "履歴: 内部開発版（mts5.69 まで）の変更履歴は公開版には含めず、要約を CHANGELOG.md にまとめる。",
+  "v1.0.0 公開前の実機（2026-10-15）: Cell 0.1 の Gemini 疎通が gemini-3.1-flash-lite の混雑（503）だけで止まっていたため、軽量モデル 3 本（backend.PING_MODELS）を順に試し、混雑（503/408）と致命エラー（400/403/404/日次 429）を区別して案内するよう変更（fortunelib.backend.ping_gemini・tests/test_ping_gemini.py）。テスト数 1137 → 1153。",
+  "v1.0.0 公開前の実機 2 回目（2026-10-15）: Cell 0.1 の import time を誤って削除していたため、疎通 OK 直後に NameError で停止。import を戻し、セル源の未定義名の静的検査と Cell 0.1 の exec 実行検査（tests/test_notebook_cells_exec.py）を追加。テスト数 1153 → 1157。"
+ ],
+ "notebook_sha256": "4da1296db9bd66fa743a11053f7c8ca7a13cf4b4117c566706707b0fdbc6a446"
+}

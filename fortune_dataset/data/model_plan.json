@@ -1,0 +1,242 @@
+{
+  "version": "2026-10-14-B6",
+  "plan": "B5",
+  "note": "モデル割当の唯一の正本。Stage A（個別占術 52 件）は lite 2 レーンに半数ずつ割り当て、503／打ち切り時は fallback 順に次のモデルへ渡す。上位 Flash（gemini-3.8-flash → 3.6-flash → 3-flash-preview）は Stage C（軸サマリー 2 本＋最終統合）にだけ使い、神々（deities）は gemini-3-flash-preview を一次とする。上位 Flash の無料枠は 5 RPM／20 RPD で保守的に見積もっている（実際の枠が分かれば rpm/rpd を更新する）。非推奨になったモデル ID は一次・fallback の全経路から外すこと（停止後の無駄打ちを避ける）。占術の計算・描画・プロンプトはモデル割当と独立している。",
+  "models": {
+    "gemini-3.1-flash-lite": {
+      "rpm": 12,
+      "tpm": 250000,
+      "rpd": 500,
+      "fallback": [
+        "gemini-3.5-flash-lite",
+        "gemini-3.8-flash",
+        "gemini-3.6-flash",
+        "gemini-3-flash-preview"
+      ],
+      "slugs": [
+        "pendulum",
+        "delphi",
+        "blood",
+        "omikuji",
+        "animal",
+        "kabbalah",
+        "african",
+        "kyusei",
+        "tantra",
+        "stone",
+        "primbon",
+        "runes",
+        "oracle",
+        "angel",
+        "cartomancy",
+        "christian",
+        "haruspex",
+        "meso",
+        "synastry",
+        "parimicham",
+        "eto",
+        "numerology_name",
+        "talisman",
+        "astragaloi",
+        "urbantarot",
+        "vedic"
+      ]
+    },
+    "gemini-3.5-flash-lite": {
+      "rpm": 12,
+      "tpm": 250000,
+      "rpd": 500,
+      "fallback": [
+        "gemini-3.1-flash-lite",
+        "gemini-3.8-flash",
+        "gemini-3.6-flash",
+        "gemini-3-flash-preview"
+      ],
+      "slugs": [
+        "weton",
+        "chaldean",
+        "seiza",
+        "numerology_birth",
+        "anka",
+        "genekeys",
+        "kipper",
+        "lenormand",
+        "ornith",
+        "crystal",
+        "crystalball",
+        "rokusei",
+        "seimei",
+        "transit",
+        "sanmei",
+        "iching",
+        "liuyao",
+        "meihua",
+        "tarot",
+        "marseille",
+        "bazi",
+        "western",
+        "natal",
+        "ziwei",
+        "qimen",
+        "hd"
+      ]
+    },
+    "gemini-3.8-flash": {
+      "rpm": 5,
+      "tpm": 250000,
+      "rpd": 20,
+      "fallback": [
+        "gemini-3.6-flash",
+        "gemini-3-flash-preview",
+        "gemini-3.5-flash-lite"
+      ],
+      "slugs": []
+    },
+    "gemini-3.6-flash": {
+      "rpm": 5,
+      "tpm": 250000,
+      "rpd": 20,
+      "fallback": [
+        "gemini-3-flash-preview",
+        "gemini-3.8-flash",
+        "gemini-3.5-flash-lite"
+      ],
+      "slugs": []
+    },
+    "gemini-3-flash-preview": {
+      "rpm": 5,
+      "tpm": 250000,
+      "rpd": 20,
+      "fallback": [
+        "gemini-3.8-flash",
+        "gemini-3.6-flash",
+        "gemini-3.5-flash-lite"
+      ],
+      "slugs": []
+    }
+  },
+  "slug_to_model": {
+    "pendulum": "gemini-3.1-flash-lite",
+    "delphi": "gemini-3.1-flash-lite",
+    "eto": "gemini-3.1-flash-lite",
+    "blood": "gemini-3.1-flash-lite",
+    "omikuji": "gemini-3.1-flash-lite",
+    "weton": "gemini-3.5-flash-lite",
+    "animal": "gemini-3.1-flash-lite",
+    "kabbalah": "gemini-3.1-flash-lite",
+    "chaldean": "gemini-3.5-flash-lite",
+    "african": "gemini-3.1-flash-lite",
+    "seiza": "gemini-3.5-flash-lite",
+    "kyusei": "gemini-3.1-flash-lite",
+    "numerology_birth": "gemini-3.5-flash-lite",
+    "tantra": "gemini-3.1-flash-lite",
+    "anka": "gemini-3.5-flash-lite",
+    "stone": "gemini-3.1-flash-lite",
+    "primbon": "gemini-3.1-flash-lite",
+    "genekeys": "gemini-3.5-flash-lite",
+    "runes": "gemini-3.1-flash-lite",
+    "kipper": "gemini-3.5-flash-lite",
+    "lenormand": "gemini-3.5-flash-lite",
+    "oracle": "gemini-3.1-flash-lite",
+    "angel": "gemini-3.1-flash-lite",
+    "cartomancy": "gemini-3.1-flash-lite",
+    "christian": "gemini-3.1-flash-lite",
+    "haruspex": "gemini-3.1-flash-lite",
+    "meso": "gemini-3.1-flash-lite",
+    "talisman": "gemini-3.1-flash-lite",
+    "ornith": "gemini-3.5-flash-lite",
+    "astragaloi": "gemini-3.1-flash-lite",
+    "crystal": "gemini-3.5-flash-lite",
+    "crystalball": "gemini-3.5-flash-lite",
+    "numerology_name": "gemini-3.1-flash-lite",
+    "rokusei": "gemini-3.5-flash-lite",
+    "seimei": "gemini-3.5-flash-lite",
+    "transit": "gemini-3.5-flash-lite",
+    "sanmei": "gemini-3.5-flash-lite",
+    "iching": "gemini-3.5-flash-lite",
+    "liuyao": "gemini-3.5-flash-lite",
+    "meihua": "gemini-3.5-flash-lite",
+    "urbantarot": "gemini-3.1-flash-lite",
+    "tarot": "gemini-3.5-flash-lite",
+    "marseille": "gemini-3.5-flash-lite",
+    "bazi": "gemini-3.5-flash-lite",
+    "western": "gemini-3.5-flash-lite",
+    "natal": "gemini-3.5-flash-lite",
+    "vedic": "gemini-3.1-flash-lite",
+    "ziwei": "gemini-3.5-flash-lite",
+    "qimen": "gemini-3.5-flash-lite",
+    "hd": "gemini-3.5-flash-lite",
+    "synastry": "gemini-3.1-flash-lite",
+    "parimicham": "gemini-3.1-flash-lite"
+  },
+  "deferred": [
+    "deities"
+  ],
+  "stage_b": {
+    "note": "クラスタ中間レポートは軸ごとに既定レーンを使う（method 軸 → gemini-3.1-flash-lite、culture 軸 → gemini-3.5-flash-lite。それぞれ 53 単位ずつで釣り合う）。特定クラスタだけ別モデルにしたいときは cluster_to_model を追加する。",
+    "axis_to_model": {
+      "method": "gemini-3.1-flash-lite",
+      "culture": "gemini-3.5-flash-lite"
+    }
+  },
+  "stage_c": {
+    "note": "軸サマリー 2 本＋最終統合 1 本は gemini-3.8-flash（fallback: 3.6-flash → 3-flash-preview → 3.5-flash-lite）、神々（M31）は gemini-3-flash-preview（fallback: 3.8-flash → 3.6-flash → 3.5-flash-lite）。混雑しやすい上位 Flash には response_timeout（60 秒）を置き、打ち切りも fallback と同じ経路で次のモデルへ渡す。",
+    "model": "gemini-3.8-flash",
+    "deities_model": "gemini-3-flash-preview",
+    "fallback": [
+      "gemini-3.6-flash",
+      "gemini-3-flash-preview",
+      "gemini-3.5-flash-lite"
+    ],
+    "deities_fallback": [
+      "gemini-3.8-flash",
+      "gemini-3.6-flash",
+      "gemini-3.5-flash-lite"
+    ],
+    "jobs": [
+      "axis_method",
+      "axis_culture",
+      "final",
+      "deities"
+    ],
+    "response_timeout": {
+      "note": "1 回の生成がこの秒数を超えたら打ち切って fallback 順の次のモデルへ回す。対象は混雑しやすい上位 Flash の 2 レーンだけ（gemini-3-flash-preview と 3.5-flash-lite は最後の受け皿なので含めない）。正常応答は軸サマリー約 10 秒・最終統合約 45 秒で、無応答は約 100 秒で 408 になるため、その手前の 60 秒で切る。設定を消すと応答を待ち続ける。",
+      "models": [
+        "gemini-3.8-flash",
+        "gemini-3.6-flash"
+      ],
+      "seconds": 60
+    }
+  },
+  "stage_a": {
+    "note": "アイドル・スティール: models に列挙した lite レーンだけが互いの残件を引き取る（上位 Flash は関与しない）。min_backlog は引き取りを止める「相手レーンの残り件数」（1 = 相手の最後の 1 件は残す）。引き取り分の集計は元レーンへ加算し、progress の pulls / pulled に記録する。設定を消すと各レーンが自分の担当だけを処理する。",
+    "pull": {
+      "models": [
+        "gemini-3.1-flash-lite",
+        "gemini-3.5-flash-lite"
+      ],
+      "min_backlog": 1
+    },
+    "response_timeout": {
+      "note": "1 回の生成がこの秒数を超えたら打ち切って別レーンへ回す（503 と同じ移譲経路）。対象は lite の 2 レーンだけ（上位 Flash は正当に 20〜30 秒かかる）。lite の正常応答は 10 秒以内なので 20 秒で切る。レーンが 1 本しか動かないときは効かせない。",
+      "models": [
+        "gemini-3.1-flash-lite",
+        "gemini-3.5-flash-lite"
+      ],
+      "seconds": 20
+    }
+  },
+  "reliability": {
+    "note": "503 のときに待つ秒数（待つ回数は 1 回。指数バックオフにはしない）。503 はほぼ 1 回目の再試行で回復するため 5 秒で十分。この値を消すと既定の 20 秒に戻る。",
+    "backoff_503_s": 5.0
+  },
+  "stage_d": {
+    "note": "Stage D（読み物版・トーン変換）は lite のみを使う。上位 Flash の無料枠（RPD 20）を Stage D の多数回呼び出しで枯渇させないため。scope で対象範囲を選ぶ: \"synthesis\"（既定）= 統合鑑定レポートだけを 1 ユニット＝1 呼び出しで丸ごと変換、\"narrative\" = 統合＋軸サマリー＋中間レポート、\"all\" = 個別占術を含む全ユニット。",
+    "model": "gemini-3.5-flash-lite",
+    "fallback": [
+      "gemini-3.1-flash-lite"
+    ],
+    "scope": "synthesis",
+    "scope_note": "scope=\"synthesis\": 統合鑑定レポートだけを自由に書き換えて「読み物版」を作る（構成・見出し・語彙・語尾・順序は自由。守るのは安全・コンプライアンスと『元に無い事実・数値を作らない』のみ。分量は元の 50〜130%）。他セクション（軸・中間・個別占術）は標準のまま。呼び出しは 3 トーンで 3 回。"
+  }
+}

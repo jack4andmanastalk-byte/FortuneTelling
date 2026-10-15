@@ -1,0 +1,272 @@
+[
+ {
+  "no": 1,
+  "ja": "アシュウィニー",
+  "en": "Aswini",
+  "lord": "火星",
+  "gana": "Deva",
+  "yoni": "馬",
+  "rajju": "P",
+  "yoni_en": "Horse"
+ },
+ {
+  "no": 2,
+  "ja": "バラニー",
+  "en": "Bharani",
+  "lord": "金星",
+  "gana": "Manushya",
+  "yoni": "象",
+  "rajju": "T",
+  "yoni_en": "Elephant"
+ },
+ {
+  "no": 3,
+  "ja": "クリッティカー",
+  "en": "Krittika",
+  "lord": "太陽",
+  "gana": "Rakshasa",
+  "yoni": "羊",
+  "rajju": "B",
+  "yoni_en": "Sheep"
+ },
+ {
+  "no": 4,
+  "ja": "ローヒニー",
+  "en": "Rohini",
+  "lord": "月",
+  "gana": "Manushya",
+  "yoni": "蛇",
+  "rajju": "N",
+  "yoni_en": "Serpent"
+ },
+ {
+  "no": 5,
+  "ja": "ムリガシラー",
+  "en": "Mrigasirsha",
+  "lord": "火星",
+  "gana": "Deva",
+  "yoni": "蛇",
+  "rajju": "H",
+  "yoni_en": "Serpent"
+ },
+ {
+  "no": 6,
+  "ja": "アールドラー",
+  "en": "Ardra",
+  "lord": "水星",
+  "gana": "Manushya",
+  "yoni": "犬",
+  "rajju": "N",
+  "yoni_en": "Dog"
+ },
+ {
+  "no": 7,
+  "ja": "プナルヴァスー",
+  "en": "Punarvasu",
+  "lord": "木星",
+  "gana": "Deva",
+  "yoni": "猫",
+  "rajju": "B",
+  "yoni_en": "Cat"
+ },
+ {
+  "no": 8,
+  "ja": "プーシャー",
+  "en": "Pushya",
+  "lord": "土星",
+  "gana": "Deva",
+  "yoni": "羊",
+  "rajju": "T",
+  "yoni_en": "Sheep"
+ },
+ {
+  "no": 9,
+  "ja": "アシュレーシャー",
+  "en": "Aslesha",
+  "lord": "水星",
+  "gana": "Rakshasa",
+  "yoni": "猫",
+  "rajju": "P",
+  "yoni_en": "Cat"
+ },
+ {
+  "no": 10,
+  "ja": "マガー",
+  "en": "Magha",
+  "lord": "ケートゥ",
+  "gana": "Rakshasa",
+  "yoni": "鼠",
+  "rajju": "P",
+  "yoni_en": "Rat"
+ },
+ {
+  "no": 11,
+  "ja": "プールヴァ・ファルグニー",
+  "en": "P.Phalguni",
+  "lord": "金星",
+  "gana": "Manushya",
+  "yoni": "鼠",
+  "rajju": "T",
+  "yoni_en": "Rat"
+ },
+ {
+  "no": 12,
+  "ja": "ウッタラ・ファルグニー",
+  "en": "U.Phalguni",
+  "lord": "太陽",
+  "gana": "Manushya",
+  "yoni": "牛",
+  "rajju": "B",
+  "yoni_en": "Cow"
+ },
+ {
+  "no": 13,
+  "ja": "ハスタ",
+  "en": "Hasta",
+  "lord": "月",
+  "gana": "Deva",
+  "yoni": "水牛",
+  "rajju": "N",
+  "yoni_en": "Buffalo"
+ },
+ {
+  "no": 14,
+  "ja": "チートラー",
+  "en": "Chitra",
+  "lord": "火星",
+  "gana": "Rakshasa",
+  "yoni": "虎",
+  "rajju": "H",
+  "yoni_en": "Tiger"
+ },
+ {
+  "no": 15,
+  "ja": "スワーティー",
+  "en": "Swati",
+  "lord": "ラーフ",
+  "gana": "Deva",
+  "yoni": "水牛",
+  "rajju": "N",
+  "yoni_en": "Buffalo"
+ },
+ {
+  "no": 16,
+  "ja": "ヴィシャーカー",
+  "en": "Vishakha",
+  "lord": "木星",
+  "gana": "Rakshasa",
+  "yoni": "虎",
+  "rajju": "B",
+  "yoni_en": "Tiger"
+ },
+ {
+  "no": 17,
+  "ja": "アヌラーダー",
+  "en": "Anuradha",
+  "lord": "土星",
+  "gana": "Deva",
+  "yoni": "鹿",
+  "rajju": "T",
+  "yoni_en": "Deer"
+ },
+ {
+  "no": 18,
+  "ja": "ジェシュタ",
+  "en": "Jyeshta",
+  "lord": "水星",
+  "gana": "Rakshasa",
+  "yoni": "鹿",
+  "rajju": "P",
+  "yoni_en": "Deer"
+ },
+ {
+  "no": 19,
+  "ja": "ムーラ",
+  "en": "Mula",
+  "lord": "ケートゥ",
+  "gana": "Rakshasa",
+  "yoni": "犬",
+  "rajju": "P",
+  "yoni_en": "Dog"
+ },
+ {
+  "no": 20,
+  "ja": "プールヴァ・アーシャーダー",
+  "en": "P.Ashadha",
+  "lord": "金星",
+  "gana": "Manushya",
+  "yoni": "猿",
+  "rajju": "T",
+  "yoni_en": "Monkey"
+ },
+ {
+  "no": 21,
+  "ja": "ウッタラ・アーシャーダー",
+  "en": "U.Ashadha",
+  "lord": "太陽",
+  "gana": "Manushya",
+  "yoni": "マングース",
+  "rajju": "B",
+  "yoni_en": "Mongoose"
+ },
+ {
+  "no": 22,
+  "ja": "シュラヴァナ",
+  "en": "Shravana",
+  "lord": "月",
+  "gana": "Deva",
+  "yoni": "猿",
+  "rajju": "N",
+  "yoni_en": "Monkey"
+ },
+ {
+  "no": 23,
+  "ja": "ダニシュター",
+  "en": "Dhanishta",
+  "lord": "火星",
+  "gana": "Rakshasa",
+  "yoni": "獅子",
+  "rajju": "H",
+  "yoni_en": "Lion"
+ },
+ {
+  "no": 24,
+  "ja": "シャタビシャー",
+  "en": "Shatabhisha",
+  "lord": "ラーフ",
+  "gana": "Rakshasa",
+  "yoni": "馬",
+  "rajju": "N",
+  "yoni_en": "Horse"
+ },
+ {
+  "no": 25,
+  "ja": "プールヴァ・バードラパダー",
+  "en": "P.Bhadrapada",
+  "lord": "木星",
+  "gana": "Manushya",
+  "yoni": "獅子",
+  "rajju": "B",
+  "yoni_en": "Lion"
+ },
+ {
+  "no": 26,
+  "ja": "ウッタラ・バードラパダー",
+  "en": "U.Bhadrapada",
+  "lord": "土星",
+  "gana": "Manushya",
+  "yoni": "牛",
+  "rajju": "T",
+  "yoni_en": "Cow"
+ },
+ {
+  "no": 27,
+  "ja": "レヴァティー",
+  "en": "Revati",
+  "lord": "水星",
+  "gana": "Deva",
+  "yoni": "象",
+  "rajju": "P",
+  "yoni_en": "Elephant"
+ }
+]

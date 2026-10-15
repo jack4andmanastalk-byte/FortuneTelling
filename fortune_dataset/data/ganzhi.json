@@ -1,0 +1,128 @@
+{
+ "jikkan": [
+  {
+   "kanji": "甲",
+   "yomi": "きのえ",
+   "attr": "陽・木"
+  },
+  {
+   "kanji": "乙",
+   "yomi": "きのと",
+   "attr": "陰・木"
+  },
+  {
+   "kanji": "丙",
+   "yomi": "ひのえ",
+   "attr": "陽・火"
+  },
+  {
+   "kanji": "丁",
+   "yomi": "ひのと",
+   "attr": "陰・火"
+  },
+  {
+   "kanji": "戊",
+   "yomi": "つちのえ",
+   "attr": "陽・土"
+  },
+  {
+   "kanji": "己",
+   "yomi": "つちのと",
+   "attr": "陰・土"
+  },
+  {
+   "kanji": "庚",
+   "yomi": "かのえ",
+   "attr": "陽・金"
+  },
+  {
+   "kanji": "辛",
+   "yomi": "かのと",
+   "attr": "陰・金"
+  },
+  {
+   "kanji": "壬",
+   "yomi": "みずのえ",
+   "attr": "陽・水"
+  },
+  {
+   "kanji": "癸",
+   "yomi": "みずのと",
+   "attr": "陰・水"
+  }
+ ],
+ "junishi": [
+  {
+   "kanji": "子",
+   "yomi": "ね",
+   "animal": "鼠",
+   "time": "23-1時"
+  },
+  {
+   "kanji": "丑",
+   "yomi": "うし",
+   "animal": "牛",
+   "time": "1-3時"
+  },
+  {
+   "kanji": "寅",
+   "yomi": "とら",
+   "animal": "虎",
+   "time": "3-5時"
+  },
+  {
+   "kanji": "卯",
+   "yomi": "う",
+   "animal": "兎",
+   "time": "5-7時"
+  },
+  {
+   "kanji": "辰",
+   "yomi": "たつ",
+   "animal": "龍",
+   "time": "7-9時"
+  },
+  {
+   "kanji": "巳",
+   "yomi": "み",
+   "animal": "蛇",
+   "time": "9-11時"
+  },
+  {
+   "kanji": "午",
+   "yomi": "うま",
+   "animal": "馬",
+   "time": "11-13時"
+  },
+  {
+   "kanji": "未",
+   "yomi": "ひつじ",
+   "animal": "羊",
+   "time": "13-15時"
+  },
+  {
+   "kanji": "申",
+   "yomi": "さる",
+   "animal": "猿",
+   "time": "15-17時"
+  },
+  {
+   "kanji": "酉",
+   "yomi": "とり",
+   "animal": "鶏",
+   "time": "17-19時"
+  },
+  {
+   "kanji": "戌",
+   "yomi": "いぬ",
+   "animal": "犬",
+   "time": "19-21時"
+  },
+  {
+   "kanji": "亥",
+   "yomi": "い",
+   "animal": "猪",
+   "time": "21-23時"
+  }
+ ]
+}

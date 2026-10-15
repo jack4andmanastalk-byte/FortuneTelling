@@ -1,0 +1,316 @@
+{
+ "schema_version": "1.0",
+ "module": "M20",
+ "divination": "紫微斗数",
+ "generated_at": "2026-09-27T12:53:10+09:00",
+ "inputs": {
+  "birth": {
+   "date": "1978-07-07",
+   "time": "05:20",
+   "time_unknown": false,
+   "place": {
+    "name": "福岡県",
+    "lat": 33.5904,
+    "lon": 130.4017,
+    "tz": "Asia/Tokyo"
+   },
+   "place_unknown": false,
+   "gender": "M"
+  },
+  "partner": {
+   "date": "1982-11-30",
+   "time": "23:45",
+   "time_unknown": false,
+   "place": {
+    "name": "北海道",
+    "lat": 43.0646,
+    "lon": 141.3469,
+    "tz": "Asia/Tokyo"
+   },
+   "place_unknown": false,
+   "gender": "unknown"
+  },
+  "name": {
+   "kanji": "高橋 蓮",
+   "kana": "たかはし れん",
+   "romaji_hepburn": "TAKAHASHI REN"
+  },
+  "blood_type": "O",
+  "consultation": "独立して事業を始めるべきか、今の会社で昇進を目指すべきか迷っています",
+  "target_date": null,
+  "approx_flags": []
+ },
+ "approx_flags": [],
+ "result": {
+  "prompt_id": "P24",
+  "group": "G3",
+  "text": "プロファイル事実として、干支（年柱・立春基準）: 戊午をふまえて読み解きます。あなたの歩みは、1つずつ確かめることで強くなっていく性質です。全体の傾向としては、今年は3つの流れが重なる時期にあたります。相談内容に対しては、まず足元を整えることが近道になります。数字で見ると、4という周期が節目として働いています。周囲との関わりでは、相手の立場を想像する姿勢が助けになります。無理を重ねず、休息を予定に入れておくと流れが崩れません。準備してきたことが形になり始める兆しがあります。判断に迷うときは、小さく試してから広げると安全です。学び直しや道具の見直しが、次の段階への入口になります。気持ちの余白を残すことが、結果として最短の道になります。あなたの歩みは、1つずつ確かめることで強くなっていく性質です。全体の傾向としては、今年は3つの流れが重なる時期にあたります。相談内容に対しては、まず足元を整えることが近道になります。数字で見ると、4という周期が節目として働いています。",
+  "calc": {
+   "five_elements_class": "土の五局",
+   "lunar_date": "一九七八年六月初三",
+   "sign": "かに座",
+   "palaces": [
+    {
+     "name": "子女",
+     "heavenly_stem": "jia",
+     "earthly_branch": "yin",
+     "major_stars": [
+      "貪狼"
+     ],
+     "minor_stars": [],
+     "decadal": {
+      "range": [
+       95,
+       104
+      ],
+      "heavenly_stem": "jia",
+      "earthly_branch": "yin"
+     }
+    },
+    {
+     "name": "夫妻",
+     "heavenly_stem": "yi",
+     "earthly_branch": "mao",
+     "major_stars": [
+      "天機",
+      "巨門"
+     ],
+     "minor_stars": [
+      "火星"
+     ],
+     "decadal": {
+      "range": [
+       105,
+       114
+      ],
+      "heavenly_stem": "yi",
+      "earthly_branch": "mao"
+     }
+    },
+    {
+     "name": "兄弟",
+     "heavenly_stem": "bing",
+     "earthly_branch": "chen",
+     "major_stars": [
+      "紫微",
+      "天相"
+     ],
+     "minor_stars": [
+      "陀羅"
+     ],
+     "decadal": {
+      "range": [
+       115,
+       124
+      ],
+      "heavenly_stem": "bing",
+      "earthly_branch": "chen"
+     }
+    },
+    {
+     "name": "命宮",
+     "heavenly_stem": "ding",
+     "earthly_branch": "si",
+     "major_stars": [
+      "天梁"
+     ],
+     "minor_stars": [
+      "右弼",
+      "祿存",
+      "鈴星"
+     ],
+     "decadal": {
+      "range": [
+       5,
+       14
+      ],
+      "heavenly_stem": "ding",
+      "earthly_branch": "si"
+     }
+    },
+    {
+     "name": "父母",
+     "heavenly_stem": "wu",
+     "earthly_branch": "wu",
+     "major_stars": [
+      "七殺"
+     ],
+     "minor_stars": [
+      "文曲",
+      "擎羊"
+     ],
+     "decadal": {
+      "range": [
+       15,
+       24
+      ],
+      "heavenly_stem": "wu",
+      "earthly_branch": "wu"
+     }
+    },
+    {
+     "name": "福德",
+     "heavenly_stem": "ji",
+     "earthly_branch": "wei",
+     "major_stars": [],
+     "minor_stars": [
+      "天鉞"
+     ],
+     "decadal": {
+      "range": [
+       25,
+       34
+      ],
+      "heavenly_stem": "ji",
+      "earthly_branch": "wei"
+     }
+    },
+    {
+     "name": "田宅",
+     "heavenly_stem": "geng",
+     "earthly_branch": "shen",
+     "major_stars": [
+      "廉貞"
+     ],
+     "minor_stars": [
+      "文昌",
+      "天馬"
+     ],
+     "decadal": {
+      "range": [
+       35,
+       44
+      ],
+      "heavenly_stem": "geng",
+      "earthly_branch": "shen"
+     }
+    },
+    {
+     "name": "官祿",
+     "heavenly_stem": "xin",
+     "earthly_branch": "you",
+     "major_stars": [],
+     "minor_stars": [
+      "左輔",
+      "地空"
+     ],
+     "decadal": {
+      "range": [
+       45,
+       54
+      ],
+      "heavenly_stem": "xin",
+      "earthly_branch": "you"
+     }
+    },
+    {
+     "name": "僕役",
+     "heavenly_stem": "ren",
+     "earthly_branch": "xu",
+     "major_stars": [
+      "破軍"
+     ],
+     "minor_stars": [],
+     "decadal": {
+      "range": [
+       55,
+       64
+      ],
+      "heavenly_stem": "ren",
+      "earthly_branch": "xu"
+     }
+    },
+    {
+     "name": "遷移",
+     "heavenly_stem": "gui",
+     "earthly_branch": "hai",
+     "major_stars": [
+      "天同"
+     ],
+     "minor_stars": [],
+     "decadal": {
+      "range": [
+       65,
+       74
+      ],
+      "heavenly_stem": "gui",
+      "earthly_branch": "hai"
+     }
+    },
+    {
+     "name": "疾厄",
+     "heavenly_stem": "jia",
+     "earthly_branch": "zi",
+     "major_stars": [
+      "武曲",
+      "天府"
+     ],
+     "minor_stars": [],
+     "decadal": {
+      "range": [
+       75,
+       84
+      ],
+      "heavenly_stem": "jia",
+      "earthly_branch": "zi"
+     }
+    },
+    {
+     "name": "財帛",
+     "heavenly_stem": "yi",
+     "earthly_branch": "chou",
+     "major_stars": [
+      "太陽",
+      "太陰"
+     ],
+     "minor_stars": [
+      "天魁",
+      "地劫"
+     ],
+     "decadal": {
+      "range": [
+       85,
+       94
+      ],
+      "heavenly_stem": "yi",
+      "earthly_branch": "chou"
+     }
+    }
+   ],
+   "transformations": [
+    {
+     "star": "貪狼",
+     "mutagen": "禄",
+     "palace": "子女"
+    },
+    {
+     "star": "天機",
+     "mutagen": "忌",
+     "palace": "夫妻"
+    },
+    {
+     "star": "太陰",
+     "mutagen": "権",
+     "palace": "財帛"
+    }
+   ],
+   "soul_palace": "命宮",
+   "body_palace": "官祿",
+   "references": [
+    "iztro-py 0.5.0 (MIT)",
+    "data/iztro_ja_names.json"
+   ],
+   "notes": [
+    "大限の順逆は iztro 仕様（solar年の年支×性別）。流派により異なる場合があります",
+    "日本語名は iztro_ja_names.json（別AI実装・検証済みテーブル）を適用"
+   ]
+  }
+ },
+ "references": [
+  "prompts.json#P24"
+ ],
+ "warnings": [],
+ "notes": [
+  "文字数: 437字（期待 500〜900字）"
+ ]
+}

@@ -1,0 +1,522 @@
+[
+ {
+  "suit": "H",
+  "suit_ja": "ハート",
+  "suit_meaning": "愛・感情・家庭",
+  "rank": "A",
+  "rank_name": "エース",
+  "rank_meaning": "始まり・新しい機会",
+  "name_ja": "ハートのエース",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "H",
+  "suit_ja": "ハート",
+  "suit_meaning": "愛・感情・家庭",
+  "rank": "2",
+  "rank_name": "2",
+  "rank_meaning": "選択・二者択一",
+  "name_ja": "ハートの2",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "H",
+  "suit_ja": "ハート",
+  "suit_meaning": "愛・感情・家庭",
+  "rank": "3",
+  "rank_name": "3",
+  "rank_meaning": "発展・協力",
+  "name_ja": "ハートの3",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "H",
+  "suit_ja": "ハート",
+  "suit_meaning": "愛・感情・家庭",
+  "rank": "4",
+  "rank_name": "4",
+  "rank_meaning": "安定・土台",
+  "name_ja": "ハートの4",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "H",
+  "suit_ja": "ハート",
+  "suit_meaning": "愛・感情・家庭",
+  "rank": "5",
+  "rank_name": "5",
+  "rank_meaning": "変化・挑戦",
+  "name_ja": "ハートの5",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "H",
+  "suit_ja": "ハート",
+  "suit_meaning": "愛・感情・家庭",
+  "rank": "6",
+  "rank_name": "6",
+  "rank_meaning": "調和・バランス",
+  "name_ja": "ハートの6",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "H",
+  "suit_ja": "ハート",
+  "suit_meaning": "愛・感情・家庭",
+  "rank": "7",
+  "rank_name": "7",
+  "rank_meaning": "試練・内省",
+  "name_ja": "ハートの7",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "H",
+  "suit_ja": "ハート",
+  "suit_meaning": "愛・感情・家庭",
+  "rank": "8",
+  "rank_name": "8",
+  "rank_meaning": "力・前進",
+  "name_ja": "ハートの8",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "H",
+  "suit_ja": "ハート",
+  "suit_meaning": "愛・感情・家庭",
+  "rank": "9",
+  "rank_name": "9",
+  "rank_meaning": "完成・達成",
+  "name_ja": "ハートの9",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "H",
+  "suit_ja": "ハート",
+  "suit_meaning": "愛・感情・家庭",
+  "rank": "10",
+  "rank_name": "10",
+  "rank_meaning": "満足・充実",
+  "name_ja": "ハートの10",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "H",
+  "suit_ja": "ハート",
+  "suit_meaning": "愛・感情・家庭",
+  "rank": "J",
+  "rank_name": "ジャック",
+  "rank_meaning": "若者・知らせ・アイデア",
+  "name_ja": "ハートのジャック",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "H",
+  "suit_ja": "ハート",
+  "suit_meaning": "愛・感情・家庭",
+  "rank": "Q",
+  "rank_name": "クイーン",
+  "rank_meaning": "女性・直感・助言",
+  "name_ja": "ハートのクイーン",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "H",
+  "suit_ja": "ハート",
+  "suit_meaning": "愛・感情・家庭",
+  "rank": "K",
+  "rank_name": "キング",
+  "rank_meaning": "男性・リーダー・権威",
+  "name_ja": "ハートのキング",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "D",
+  "suit_ja": "ダイヤ",
+  "suit_meaning": "金銭・仕事・物質",
+  "rank": "A",
+  "rank_name": "エース",
+  "rank_meaning": "始まり・新しい機会",
+  "name_ja": "ダイヤのエース",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "D",
+  "suit_ja": "ダイヤ",
+  "suit_meaning": "金銭・仕事・物質",
+  "rank": "2",
+  "rank_name": "2",
+  "rank_meaning": "選択・二者択一",
+  "name_ja": "ダイヤの2",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "D",
+  "suit_ja": "ダイヤ",
+  "suit_meaning": "金銭・仕事・物質",
+  "rank": "3",
+  "rank_name": "3",
+  "rank_meaning": "発展・協力",
+  "name_ja": "ダイヤの3",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "D",
+  "suit_ja": "ダイヤ",
+  "suit_meaning": "金銭・仕事・物質",
+  "rank": "4",
+  "rank_name": "4",
+  "rank_meaning": "安定・土台",
+  "name_ja": "ダイヤの4",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "D",
+  "suit_ja": "ダイヤ",
+  "suit_meaning": "金銭・仕事・物質",
+  "rank": "5",
+  "rank_name": "5",
+  "rank_meaning": "変化・挑戦",
+  "name_ja": "ダイヤの5",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "D",
+  "suit_ja": "ダイヤ",
+  "suit_meaning": "金銭・仕事・物質",
+  "rank": "6",
+  "rank_name": "6",
+  "rank_meaning": "調和・バランス",
+  "name_ja": "ダイヤの6",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "D",
+  "suit_ja": "ダイヤ",
+  "suit_meaning": "金銭・仕事・物質",
+  "rank": "7",
+  "rank_name": "7",
+  "rank_meaning": "試練・内省",
+  "name_ja": "ダイヤの7",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "D",
+  "suit_ja": "ダイヤ",
+  "suit_meaning": "金銭・仕事・物質",
+  "rank": "8",
+  "rank_name": "8",
+  "rank_meaning": "力・前進",
+  "name_ja": "ダイヤの8",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "D",
+  "suit_ja": "ダイヤ",
+  "suit_meaning": "金銭・仕事・物質",
+  "rank": "9",
+  "rank_name": "9",
+  "rank_meaning": "完成・達成",
+  "name_ja": "ダイヤの9",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "D",
+  "suit_ja": "ダイヤ",
+  "suit_meaning": "金銭・仕事・物質",
+  "rank": "10",
+  "rank_name": "10",
+  "rank_meaning": "満足・充実",
+  "name_ja": "ダイヤの10",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "D",
+  "suit_ja": "ダイヤ",
+  "suit_meaning": "金銭・仕事・物質",
+  "rank": "J",
+  "rank_name": "ジャック",
+  "rank_meaning": "若者・知らせ・アイデア",
+  "name_ja": "ダイヤのジャック",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "D",
+  "suit_ja": "ダイヤ",
+  "suit_meaning": "金銭・仕事・物質",
+  "rank": "Q",
+  "rank_name": "クイーン",
+  "rank_meaning": "女性・直感・助言",
+  "name_ja": "ダイヤのクイーン",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "D",
+  "suit_ja": "ダイヤ",
+  "suit_meaning": "金銭・仕事・物質",
+  "rank": "K",
+  "rank_name": "キング",
+  "rank_meaning": "男性・リーダー・権威",
+  "name_ja": "ダイヤのキング",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "C",
+  "suit_ja": "クラブ",
+  "suit_meaning": "行動・計画・仕事",
+  "rank": "A",
+  "rank_name": "エース",
+  "rank_meaning": "始まり・新しい機会",
+  "name_ja": "クラブのエース",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "C",
+  "suit_ja": "クラブ",
+  "suit_meaning": "行動・計画・仕事",
+  "rank": "2",
+  "rank_name": "2",
+  "rank_meaning": "選択・二者択一",
+  "name_ja": "クラブの2",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "C",
+  "suit_ja": "クラブ",
+  "suit_meaning": "行動・計画・仕事",
+  "rank": "3",
+  "rank_name": "3",
+  "rank_meaning": "発展・協力",
+  "name_ja": "クラブの3",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "C",
+  "suit_ja": "クラブ",
+  "suit_meaning": "行動・計画・仕事",
+  "rank": "4",
+  "rank_name": "4",
+  "rank_meaning": "安定・土台",
+  "name_ja": "クラブの4",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "C",
+  "suit_ja": "クラブ",
+  "suit_meaning": "行動・計画・仕事",
+  "rank": "5",
+  "rank_name": "5",
+  "rank_meaning": "変化・挑戦",
+  "name_ja": "クラブの5",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "C",
+  "suit_ja": "クラブ",
+  "suit_meaning": "行動・計画・仕事",
+  "rank": "6",
+  "rank_name": "6",
+  "rank_meaning": "調和・バランス",
+  "name_ja": "クラブの6",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "C",
+  "suit_ja": "クラブ",
+  "suit_meaning": "行動・計画・仕事",
+  "rank": "7",
+  "rank_name": "7",
+  "rank_meaning": "試練・内省",
+  "name_ja": "クラブの7",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "C",
+  "suit_ja": "クラブ",
+  "suit_meaning": "行動・計画・仕事",
+  "rank": "8",
+  "rank_name": "8",
+  "rank_meaning": "力・前進",
+  "name_ja": "クラブの8",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "C",
+  "suit_ja": "クラブ",
+  "suit_meaning": "行動・計画・仕事",
+  "rank": "9",
+  "rank_name": "9",
+  "rank_meaning": "完成・達成",
+  "name_ja": "クラブの9",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "C",
+  "suit_ja": "クラブ",
+  "suit_meaning": "行動・計画・仕事",
+  "rank": "10",
+  "rank_name": "10",
+  "rank_meaning": "満足・充実",
+  "name_ja": "クラブの10",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "C",
+  "suit_ja": "クラブ",
+  "suit_meaning": "行動・計画・仕事",
+  "rank": "J",
+  "rank_name": "ジャック",
+  "rank_meaning": "若者・知らせ・アイデア",
+  "name_ja": "クラブのジャック",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "C",
+  "suit_ja": "クラブ",
+  "suit_meaning": "行動・計画・仕事",
+  "rank": "Q",
+  "rank_name": "クイーン",
+  "rank_meaning": "女性・直感・助言",
+  "name_ja": "クラブのクイーン",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "C",
+  "suit_ja": "クラブ",
+  "suit_meaning": "行動・計画・仕事",
+  "rank": "K",
+  "rank_name": "キング",
+  "rank_meaning": "男性・リーダー・権威",
+  "name_ja": "クラブのキング",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "S",
+  "suit_ja": "スペード",
+  "suit_meaning": "課題・変化・精神",
+  "rank": "A",
+  "rank_name": "エース",
+  "rank_meaning": "始まり・新しい機会",
+  "name_ja": "スペードのエース",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "S",
+  "suit_ja": "スペード",
+  "suit_meaning": "課題・変化・精神",
+  "rank": "2",
+  "rank_name": "2",
+  "rank_meaning": "選択・二者択一",
+  "name_ja": "スペードの2",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "S",
+  "suit_ja": "スペード",
+  "suit_meaning": "課題・変化・精神",
+  "rank": "3",
+  "rank_name": "3",
+  "rank_meaning": "発展・協力",
+  "name_ja": "スペードの3",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "S",
+  "suit_ja": "スペード",
+  "suit_meaning": "課題・変化・精神",
+  "rank": "4",
+  "rank_name": "4",
+  "rank_meaning": "安定・土台",
+  "name_ja": "スペードの4",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "S",
+  "suit_ja": "スペード",
+  "suit_meaning": "課題・変化・精神",
+  "rank": "5",
+  "rank_name": "5",
+  "rank_meaning": "変化・挑戦",
+  "name_ja": "スペードの5",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "S",
+  "suit_ja": "スペード",
+  "suit_meaning": "課題・変化・精神",
+  "rank": "6",
+  "rank_name": "6",
+  "rank_meaning": "調和・バランス",
+  "name_ja": "スペードの6",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "S",
+  "suit_ja": "スペード",
+  "suit_meaning": "課題・変化・精神",
+  "rank": "7",
+  "rank_name": "7",
+  "rank_meaning": "試練・内省",
+  "name_ja": "スペードの7",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "S",
+  "suit_ja": "スペード",
+  "suit_meaning": "課題・変化・精神",
+  "rank": "8",
+  "rank_name": "8",
+  "rank_meaning": "力・前進",
+  "name_ja": "スペードの8",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "S",
+  "suit_ja": "スペード",
+  "suit_meaning": "課題・変化・精神",
+  "rank": "9",
+  "rank_name": "9",
+  "rank_meaning": "完成・達成",
+  "name_ja": "スペードの9",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "S",
+  "suit_ja": "スペード",
+  "suit_meaning": "課題・変化・精神",
+  "rank": "10",
+  "rank_name": "10",
+  "rank_meaning": "満足・充実",
+  "name_ja": "スペードの10",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "S",
+  "suit_ja": "スペード",
+  "suit_meaning": "課題・変化・精神",
+  "rank": "J",
+  "rank_name": "ジャック",
+  "rank_meaning": "若者・知らせ・アイデア",
+  "name_ja": "スペードのジャック",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "S",
+  "suit_ja": "スペード",
+  "suit_meaning": "課題・変化・精神",
+  "rank": "Q",
+  "rank_name": "クイーン",
+  "rank_meaning": "女性・直感・助言",
+  "name_ja": "スペードのクイーン",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ },
+ {
+  "suit": "S",
+  "suit_ja": "スペード",
+  "suit_meaning": "課題・変化・精神",
+  "rank": "K",
+  "rank_name": "キング",
+  "rank_meaning": "男性・リーダー・権威",
+  "name_ja": "スペードのキング",
+  "source": "トランプ占い（カルトマンシー）の一般的な固定対応表"
+ }
+]

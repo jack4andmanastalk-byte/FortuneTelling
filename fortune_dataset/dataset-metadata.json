@@ -1,0 +1,10 @@
+{
+  "title": "Fortune Dataset — 53 divination engines + Gemini report pipeline (v1.0.0)",
+  "id": "YOUR_KAGGLE_USERNAME/fortune-dataset",
+  "licenses": [
+    {
+      "name": "AGPL-3.0"
+    }
+  ],
+  "description": "Code: AGPL-3.0 (see LICENSE). Images under assets/images, the intro video, prompts and this project's own data files: CC BY 4.0 (see LICENSE-ASSETS). Third-party data (KANJIDIC2 CC BY-SA 4.0, Unihan, fonts under OFL 1.1) and trademark notices: THIRD_PARTY_NOTICES.md."
+}

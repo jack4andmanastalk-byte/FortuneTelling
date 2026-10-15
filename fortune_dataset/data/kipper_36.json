@@ -1,0 +1,290 @@
+[
+ {
+  "no": 1,
+  "name_ja": "主要な男性",
+  "name_en": "Man",
+  "keyword_ja": "本人（男性）・重要な男性",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 2,
+  "name_ja": "主要な女性",
+  "name_en": "Woman",
+  "keyword_ja": "本人（女性）・重要な女性",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 3,
+  "name_ja": "結婚",
+  "name_en": "Marriage",
+  "keyword_ja": "結婚・契約・結合",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 4,
+  "name_ja": "交際",
+  "name_en": "Courtship",
+  "keyword_ja": "社交・出会い・接近",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 5,
+  "name_ja": "円熟した男性",
+  "name_en": "Mature Man",
+  "keyword_ja": "年長の男性・助言者・父",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 6,
+  "name_ja": "円熟した女性",
+  "name_en": "Mature Woman",
+  "keyword_ja": "年長の女性・助言者・母",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 7,
+  "name_ja": "朗報",
+  "name_en": "Pleasant Message",
+  "keyword_ja": "良い知らせ・連絡",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 8,
+  "name_ja": "偽りの人",
+  "name_en": "False Person",
+  "keyword_ja": "欺瞞・偽り・裏切り",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 9,
+  "name_ja": "変化",
+  "name_en": "Change",
+  "keyword_ja": "転機・移動・適応",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 10,
+  "name_ja": "旅",
+  "name_en": "Journey",
+  "keyword_ja": "旅行・移動・乗り物",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 11,
+  "name_ja": "突然の富",
+  "name_en": "Sudden Wealth",
+  "keyword_ja": "大きな金・臨時収入",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 12,
+  "name_ja": "裕福な娘",
+  "name_en": "Privileged Lady",
+  "keyword_ja": "幸運な若い女性・創造性",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 13,
+  "name_ja": "富裕な男",
+  "name_en": "Wealthy Man",
+  "keyword_ja": "実業家・ビジネス・財",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 14,
+  "name_ja": "心配の知らせ",
+  "name_en": "Message of Concern",
+  "keyword_ja": "残念な知らせ・懸念",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 15,
+  "name_ja": "恋の好結果",
+  "name_en": "Success in Love",
+  "keyword_ja": "恋愛・親密さ・成功",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 16,
+  "name_ja": "彼の想い",
+  "name_en": "His Thoughts",
+  "keyword_ja": "想念・考え・関心",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 17,
+  "name_ja": "贈り物",
+  "name_en": "Gift",
+  "keyword_ja": "贈り物・支援・好意",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 18,
+  "name_ja": "小さな子供",
+  "name_en": "Child",
+  "keyword_ja": "子供・初心・新しい始まり",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 19,
+  "name_ja": "棺",
+  "name_en": "Coffin",
+  "keyword_ja": "終わり・喪失・区切り",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 20,
+  "name_ja": "家",
+  "name_en": "House",
+  "keyword_ja": "家庭・財産・安全",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 21,
+  "name_ja": "居間",
+  "name_en": "Living Room",
+  "keyword_ja": "私的空間・親密さ",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 22,
+  "name_ja": "役人・軍人",
+  "name_en": "Official Person",
+  "keyword_ja": "公人・規則・権威",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 23,
+  "name_ja": "裁判所",
+  "name_en": "Court",
+  "keyword_ja": "法的手続き・公的機関",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 24,
+  "name_ja": "泥棒",
+  "name_en": "Thief",
+  "keyword_ja": "損失・盗難・減少",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 25,
+  "name_ja": "高位の名誉",
+  "name_en": "High Honours",
+  "keyword_ja": "名誉・成功・昇進",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 26,
+  "name_ja": "大いなる幸運",
+  "name_en": "Great Fortune",
+  "keyword_ja": "最高の吉・願望成就",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 27,
+  "name_ja": "予期せぬ収入",
+  "name_en": "Unexpected Income",
+  "keyword_ja": "小さな臨時収入・幸運",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 28,
+  "name_ja": "待望",
+  "name_en": "Expectation",
+  "keyword_ja": "忍耐・待機・熟考",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 29,
+  "name_ja": "監禁",
+  "name_en": "Imprisonment",
+  "keyword_ja": "閉塞・孤立・停滞",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 30,
+  "name_ja": "裁き",
+  "name_en": "Judication",
+  "keyword_ja": "判断・専門家・決定",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 31,
+  "name_ja": "病",
+  "name_en": "Bad Health",
+  "keyword_ja": "病気・不調・疲れ",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 32,
+  "name_ja": "絶望",
+  "name_en": "Despair",
+  "keyword_ja": "悲嘆・逆境・憂鬱",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 33,
+  "name_ja": "憂鬱な想い",
+  "name_en": "Murky Thoughts",
+  "keyword_ja": "不安・悲観・心配",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 34,
+  "name_ja": "職業",
+  "name_en": "Occupation",
+  "keyword_ja": "仕事・活動・生業",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 35,
+  "name_ja": "道のり",
+  "name_en": "Pathway",
+  "keyword_ja": "長い道・距離・忍耐",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ },
+ {
+  "no": 36,
+  "name_ja": "遠い地平・希望",
+  "name_en": "Distant Horizons",
+  "keyword_ja": "希望・大志・目標",
+  "source": "伝統的バイエルン版キッパー36枚（Lozzy's Lenormandほか一般公開資料）",
+  "note": "版により39枚（Fin de Siècle）・52枚のものもある"
+ }
+]

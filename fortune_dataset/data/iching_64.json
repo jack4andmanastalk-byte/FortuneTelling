@@ -1,0 +1,642 @@
+[
+ {
+  "kingwen_no": 1,
+  "name_ja": "乾為天",
+  "reading": "けんいてん",
+  "upper": "乾",
+  "lower": "乾",
+  "upper_symbol": "☰",
+  "lower_symbol": "☰",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 2,
+  "name_ja": "坤為地",
+  "reading": "こんち",
+  "upper": "坤",
+  "lower": "坤",
+  "upper_symbol": "☷",
+  "lower_symbol": "☷",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 3,
+  "name_ja": "水雷屯",
+  "reading": "すいらいちゅん",
+  "upper": "坎",
+  "lower": "震",
+  "upper_symbol": "☵",
+  "lower_symbol": "☳",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 4,
+  "name_ja": "山水蒙",
+  "reading": "さんすいもう",
+  "upper": "艮",
+  "lower": "坎",
+  "upper_symbol": "☶",
+  "lower_symbol": "☵",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 5,
+  "name_ja": "水天需",
+  "reading": "すいてんじゅ",
+  "upper": "坎",
+  "lower": "乾",
+  "upper_symbol": "☵",
+  "lower_symbol": "☰",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 6,
+  "name_ja": "天水訟",
+  "reading": "てんすいしょう",
+  "upper": "乾",
+  "lower": "坎",
+  "upper_symbol": "☰",
+  "lower_symbol": "☵",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 7,
+  "name_ja": "地水師",
+  "reading": "ちすいし",
+  "upper": "坤",
+  "lower": "坎",
+  "upper_symbol": "☷",
+  "lower_symbol": "☵",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 8,
+  "name_ja": "水地比",
+  "reading": "すいちひ",
+  "upper": "坎",
+  "lower": "坤",
+  "upper_symbol": "☵",
+  "lower_symbol": "☷",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 9,
+  "name_ja": "風天小畜",
+  "reading": "ふうてんしょうちく",
+  "upper": "巽",
+  "lower": "乾",
+  "upper_symbol": "☴",
+  "lower_symbol": "☰",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 10,
+  "name_ja": "天澤履",
+  "reading": "てんたくり",
+  "upper": "乾",
+  "lower": "兌",
+  "upper_symbol": "☰",
+  "lower_symbol": "☱",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 11,
+  "name_ja": "地天泰",
+  "reading": "ちてんたい",
+  "upper": "坤",
+  "lower": "乾",
+  "upper_symbol": "☷",
+  "lower_symbol": "☰",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 12,
+  "name_ja": "天地否",
+  "reading": "てんちひ",
+  "upper": "乾",
+  "lower": "坤",
+  "upper_symbol": "☰",
+  "lower_symbol": "☷",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 13,
+  "name_ja": "天火同人",
+  "reading": "てんかどうじん",
+  "upper": "乾",
+  "lower": "離",
+  "upper_symbol": "☰",
+  "lower_symbol": "☲",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 14,
+  "name_ja": "火天大有",
+  "reading": "かてんたいゆう",
+  "upper": "離",
+  "lower": "乾",
+  "upper_symbol": "☲",
+  "lower_symbol": "☰",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 15,
+  "name_ja": "地山謙",
+  "reading": "ちさんけん",
+  "upper": "坤",
+  "lower": "艮",
+  "upper_symbol": "☷",
+  "lower_symbol": "☶",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 16,
+  "name_ja": "雷地豫",
+  "reading": "らいちよ",
+  "upper": "震",
+  "lower": "坤",
+  "upper_symbol": "☳",
+  "lower_symbol": "☷",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 17,
+  "name_ja": "澤雷隨",
+  "reading": "たくらいずい",
+  "upper": "兌",
+  "lower": "震",
+  "upper_symbol": "☱",
+  "lower_symbol": "☳",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 18,
+  "name_ja": "山風蠱",
+  "reading": "さんぷうこ",
+  "upper": "艮",
+  "lower": "巽",
+  "upper_symbol": "☶",
+  "lower_symbol": "☴",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 19,
+  "name_ja": "地澤臨",
+  "reading": "ちたくりん",
+  "upper": "坤",
+  "lower": "兌",
+  "upper_symbol": "☷",
+  "lower_symbol": "☱",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 20,
+  "name_ja": "風地觀",
+  "reading": "ふうちかん",
+  "upper": "巽",
+  "lower": "坤",
+  "upper_symbol": "☴",
+  "lower_symbol": "☷",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 21,
+  "name_ja": "火雷噬嗑",
+  "reading": "からいこうごう",
+  "upper": "離",
+  "lower": "震",
+  "upper_symbol": "☲",
+  "lower_symbol": "☳",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 22,
+  "name_ja": "山火賁",
+  "reading": "さんかひ",
+  "upper": "艮",
+  "lower": "離",
+  "upper_symbol": "☶",
+  "lower_symbol": "☲",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 23,
+  "name_ja": "山地剝",
+  "reading": "さんちはく",
+  "upper": "艮",
+  "lower": "坤",
+  "upper_symbol": "☶",
+  "lower_symbol": "☷",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 24,
+  "name_ja": "地雷復",
+  "reading": "ちらいふく",
+  "upper": "坤",
+  "lower": "震",
+  "upper_symbol": "☷",
+  "lower_symbol": "☳",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 25,
+  "name_ja": "天雷無妄",
+  "reading": "てんらいむもう",
+  "upper": "乾",
+  "lower": "震",
+  "upper_symbol": "☰",
+  "lower_symbol": "☳",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 26,
+  "name_ja": "山天大畜",
+  "reading": "さんてんたいちく",
+  "upper": "艮",
+  "lower": "乾",
+  "upper_symbol": "☶",
+  "lower_symbol": "☰",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 27,
+  "name_ja": "山雷頤",
+  "reading": "さんらいい",
+  "upper": "艮",
+  "lower": "震",
+  "upper_symbol": "☶",
+  "lower_symbol": "☳",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 28,
+  "name_ja": "澤風大過",
+  "reading": "たくふうたいか",
+  "upper": "兌",
+  "lower": "巽",
+  "upper_symbol": "☱",
+  "lower_symbol": "☴",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 29,
+  "name_ja": "坎為水",
+  "reading": "かんいすい",
+  "upper": "坎",
+  "lower": "坎",
+  "upper_symbol": "☵",
+  "lower_symbol": "☵",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 30,
+  "name_ja": "離為火",
+  "reading": "りいか",
+  "upper": "離",
+  "lower": "離",
+  "upper_symbol": "☲",
+  "lower_symbol": "☲",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 31,
+  "name_ja": "澤山咸",
+  "reading": "たくさんかん",
+  "upper": "兌",
+  "lower": "艮",
+  "upper_symbol": "☱",
+  "lower_symbol": "☶",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 32,
+  "name_ja": "雷風恆",
+  "reading": "らいふうこう",
+  "upper": "震",
+  "lower": "巽",
+  "upper_symbol": "☳",
+  "lower_symbol": "☴",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 33,
+  "name_ja": "天山遯",
+  "reading": "てんさんとん",
+  "upper": "乾",
+  "lower": "艮",
+  "upper_symbol": "☰",
+  "lower_symbol": "☶",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 34,
+  "name_ja": "雷天大壯",
+  "reading": "らいてんたいそう",
+  "upper": "震",
+  "lower": "乾",
+  "upper_symbol": "☳",
+  "lower_symbol": "☰",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 35,
+  "name_ja": "火地晉",
+  "reading": "かちしん",
+  "upper": "離",
+  "lower": "坤",
+  "upper_symbol": "☲",
+  "lower_symbol": "☷",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 36,
+  "name_ja": "地火明夷",
+  "reading": "ちかめいい",
+  "upper": "坤",
+  "lower": "離",
+  "upper_symbol": "☷",
+  "lower_symbol": "☲",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 37,
+  "name_ja": "風火家人",
+  "reading": "ふうかかじん",
+  "upper": "巽",
+  "lower": "離",
+  "upper_symbol": "☴",
+  "lower_symbol": "☲",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 38,
+  "name_ja": "火澤睽",
+  "reading": "かたくけい",
+  "upper": "離",
+  "lower": "兌",
+  "upper_symbol": "☲",
+  "lower_symbol": "☱",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 39,
+  "name_ja": "水山蹇",
+  "reading": "すいさんけん",
+  "upper": "坎",
+  "lower": "艮",
+  "upper_symbol": "☵",
+  "lower_symbol": "☶",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 40,
+  "name_ja": "雷水解",
+  "reading": "らいすいかい",
+  "upper": "震",
+  "lower": "坎",
+  "upper_symbol": "☳",
+  "lower_symbol": "☵",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 41,
+  "name_ja": "山澤損",
+  "reading": "さんたくそん",
+  "upper": "艮",
+  "lower": "兌",
+  "upper_symbol": "☶",
+  "lower_symbol": "☱",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 42,
+  "name_ja": "風雷益",
+  "reading": "ふうらいえき",
+  "upper": "巽",
+  "lower": "震",
+  "upper_symbol": "☴",
+  "lower_symbol": "☳",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 43,
+  "name_ja": "澤天夬",
+  "reading": "たくてんかい",
+  "upper": "兌",
+  "lower": "乾",
+  "upper_symbol": "☱",
+  "lower_symbol": "☰",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 44,
+  "name_ja": "天風姤",
+  "reading": "てんぷうこう",
+  "upper": "乾",
+  "lower": "巽",
+  "upper_symbol": "☰",
+  "lower_symbol": "☴",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 45,
+  "name_ja": "澤地萃",
+  "reading": "たくちすい",
+  "upper": "兌",
+  "lower": "坤",
+  "upper_symbol": "☱",
+  "lower_symbol": "☷",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 46,
+  "name_ja": "地風升",
+  "reading": "ちふうしょう",
+  "upper": "坤",
+  "lower": "巽",
+  "upper_symbol": "☷",
+  "lower_symbol": "☴",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 47,
+  "name_ja": "澤水困",
+  "reading": "たくすいこん",
+  "upper": "兌",
+  "lower": "坎",
+  "upper_symbol": "☱",
+  "lower_symbol": "☵",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 48,
+  "name_ja": "水風井",
+  "reading": "すいふうせい",
+  "upper": "坎",
+  "lower": "巽",
+  "upper_symbol": "☵",
+  "lower_symbol": "☴",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 49,
+  "name_ja": "澤火革",
+  "reading": "たくかかく",
+  "upper": "兌",
+  "lower": "離",
+  "upper_symbol": "☱",
+  "lower_symbol": "☲",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 50,
+  "name_ja": "火風鼎",
+  "reading": "かふうてい",
+  "upper": "離",
+  "lower": "巽",
+  "upper_symbol": "☲",
+  "lower_symbol": "☴",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 51,
+  "name_ja": "震為雷",
+  "reading": "しんいらい",
+  "upper": "震",
+  "lower": "震",
+  "upper_symbol": "☳",
+  "lower_symbol": "☳",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 52,
+  "name_ja": "艮為山",
+  "reading": "ごんいさん",
+  "upper": "艮",
+  "lower": "艮",
+  "upper_symbol": "☶",
+  "lower_symbol": "☶",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 53,
+  "name_ja": "風山漸",
+  "reading": "ふうさんぜん",
+  "upper": "巽",
+  "lower": "艮",
+  "upper_symbol": "☴",
+  "lower_symbol": "☶",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 54,
+  "name_ja": "雷澤歸妹",
+  "reading": "らいたくきまい",
+  "upper": "震",
+  "lower": "兌",
+  "upper_symbol": "☳",
+  "lower_symbol": "☱",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 55,
+  "name_ja": "雷火豐",
+  "reading": "らいかほう",
+  "upper": "震",
+  "lower": "離",
+  "upper_symbol": "☳",
+  "lower_symbol": "☲",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 56,
+  "name_ja": "火山旅",
+  "reading": "かざんりょ",
+  "upper": "離",
+  "lower": "艮",
+  "upper_symbol": "☲",
+  "lower_symbol": "☶",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 57,
+  "name_ja": "巽為風",
+  "reading": "そんいふう",
+  "upper": "巽",
+  "lower": "巽",
+  "upper_symbol": "☴",
+  "lower_symbol": "☴",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 58,
+  "name_ja": "兌為澤",
+  "reading": "だいたく",
+  "upper": "兌",
+  "lower": "兌",
+  "upper_symbol": "☱",
+  "lower_symbol": "☱",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 59,
+  "name_ja": "風水渙",
+  "reading": "ふうすいかん",
+  "upper": "巽",
+  "lower": "坎",
+  "upper_symbol": "☴",
+  "lower_symbol": "☵",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 60,
+  "name_ja": "水澤節",
+  "reading": "すいたくせつ",
+  "upper": "坎",
+  "lower": "兌",
+  "upper_symbol": "☵",
+  "lower_symbol": "☱",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 61,
+  "name_ja": "風澤中孚",
+  "reading": "ふうたくちゅうふ",
+  "upper": "巽",
+  "lower": "兌",
+  "upper_symbol": "☴",
+  "lower_symbol": "☱",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 62,
+  "name_ja": "雷山小過",
+  "reading": "らいさんしょうか",
+  "upper": "震",
+  "lower": "艮",
+  "upper_symbol": "☳",
+  "lower_symbol": "☶",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 63,
+  "name_ja": "水火既濟",
+  "reading": "すいかきさい",
+  "upper": "坎",
+  "lower": "離",
+  "upper_symbol": "☵",
+  "lower_symbol": "☲",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ },
+ {
+  "kingwen_no": 64,
+  "name_ja": "火水未濟",
+  "reading": "かすいびせい",
+  "upper": "離",
+  "lower": "坎",
+  "upper_symbol": "☲",
+  "lower_symbol": "☵",
+  "source": "キングウェン番号・卦名は一般公開情報（易経の基礎知識）"
+ }
+]

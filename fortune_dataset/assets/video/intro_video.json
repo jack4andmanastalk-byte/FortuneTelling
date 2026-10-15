@@ -1,0 +1,19 @@
+{
+ "_comment": "冒頭動画カード（mts5.69）の正本。file/poster は同じディレクトリからの相対名。Cell N2 の EMBED_INTRO_VIDEO=False で無効化できる。",
+ "file": "Purification_Mini.mp4",
+ "poster": "Purification_Mini_poster.webp",
+ "title": "お祓い（Purification）の動画",
+ "note": "鑑定の前後にご覧いただく動画です。このファイル1枚で再生できます（自動再生はしません）。",
+ "online_url": "https://www.youtube.com/watch?v=rnxxef4Jq8I",
+ "online_prefix": "大きなサイズの動画は ",
+ "online_label": "オンラインからも視聴できます",
+ "online_suffix": "（YouTube）",
+ "sha256": "a4b373f35acca9fa071fc4c50863f4048d5afe47d0b2b2d846e4d84c00d15985",
+ "size_bytes": 7397866,
+ "seconds": 239.27,
+ "width": 320,
+ "height": 240,
+ "codec": "H.264 High@1.3 320x240 24fps + AAC-LC 48kHz stereo（moov 先頭）",
+ "source": "ユーザー提供 2026-10-14（uploads/Purification_Mini.mp4.txt と同一バイト）。poster は 1.0 秒目のフレーム（WebP q70・320x240）",
+ "poster_sha256": "093ce6ff13da6cee54b262678087f8f8b630151a7cb0308de27d8c2d40f333e5"
+}

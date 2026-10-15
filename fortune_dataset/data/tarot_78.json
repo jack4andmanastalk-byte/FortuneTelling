@@ -1,0 +1,570 @@
+[
+ {
+  "arcana": "major",
+  "no": 0,
+  "name_ja": "愚者",
+  "name_en": "The Fool",
+  "keywords": "",
+  "source": "ライダー・ウェイト版（RWS）の一般公開名称"
+ },
+ {
+  "arcana": "major",
+  "no": 1,
+  "name_ja": "魔術師",
+  "name_en": "The Magician",
+  "keywords": "",
+  "source": "ライダー・ウェイト版（RWS）の一般公開名称"
+ },
+ {
+  "arcana": "major",
+  "no": 2,
+  "name_ja": "女教皇",
+  "name_en": "The High Priestess",
+  "keywords": "",
+  "source": "ライダー・ウェイト版（RWS）の一般公開名称"
+ },
+ {
+  "arcana": "major",
+  "no": 3,
+  "name_ja": "女帝",
+  "name_en": "The Empress",
+  "keywords": "",
+  "source": "ライダー・ウェイト版（RWS）の一般公開名称"
+ },
+ {
+  "arcana": "major",
+  "no": 4,
+  "name_ja": "皇帝",
+  "name_en": "The Emperor",
+  "keywords": "",
+  "source": "ライダー・ウェイト版（RWS）の一般公開名称"
+ },
+ {
+  "arcana": "major",
+  "no": 5,
+  "name_ja": "教皇",
+  "name_en": "The Hierophant",
+  "keywords": "",
+  "source": "ライダー・ウェイト版（RWS）の一般公開名称"
+ },
+ {
+  "arcana": "major",
+  "no": 6,
+  "name_ja": "恋人",
+  "name_en": "The Lovers",
+  "keywords": "",
+  "source": "ライダー・ウェイト版（RWS）の一般公開名称"
+ },
+ {
+  "arcana": "major",
+  "no": 7,
+  "name_ja": "戦車",
+  "name_en": "The Chariot",
+  "keywords": "",
+  "source": "ライダー・ウェイト版（RWS）の一般公開名称"
+ },
+ {
+  "arcana": "major",
+  "no": 8,
+  "name_ja": "力",
+  "name_en": "Strength",
+  "keywords": "",
+  "source": "ライダー・ウェイト版（RWS）の一般公開名称"
+ },
+ {
+  "arcana": "major",
+  "no": 9,
+  "name_ja": "隠者",
+  "name_en": "The Hermit",
+  "keywords": "",
+  "source": "ライダー・ウェイト版（RWS）の一般公開名称"
+ },
+ {
+  "arcana": "major",
+  "no": 10,
+  "name_ja": "運命の輪",
+  "name_en": "Wheel of Fortune",
+  "keywords": "",
+  "source": "ライダー・ウェイト版（RWS）の一般公開名称"
+ },
+ {
+  "arcana": "major",
+  "no": 11,
+  "name_ja": "正義",
+  "name_en": "Justice",
+  "keywords": "",
+  "source": "ライダー・ウェイト版（RWS）の一般公開名称"
+ },
+ {
+  "arcana": "major",
+  "no": 12,
+  "name_ja": "吊るされた男",
+  "name_en": "The Hanged Man",
+  "keywords": "",
+  "source": "ライダー・ウェイト版（RWS）の一般公開名称"
+ },
+ {
+  "arcana": "major",
+  "no": 13,
+  "name_ja": "死神",
+  "name_en": "Death",
+  "keywords": "",
+  "source": "ライダー・ウェイト版（RWS）の一般公開名称"
+ },
+ {
+  "arcana": "major",
+  "no": 14,
+  "name_ja": "節制",
+  "name_en": "Temperance",
+  "keywords": "",
+  "source": "ライダー・ウェイト版（RWS）の一般公開名称"
+ },
+ {
+  "arcana": "major",
+  "no": 15,
+  "name_ja": "悪魔",
+  "name_en": "The Devil",
+  "keywords": "",
+  "source": "ライダー・ウェイト版（RWS）の一般公開名称"
+ },
+ {
+  "arcana": "major",
+  "no": 16,
+  "name_ja": "塔",
+  "name_en": "The Tower",
+  "keywords": "",
+  "source": "ライダー・ウェイト版（RWS）の一般公開名称"
+ },
+ {
+  "arcana": "major",
+  "no": 17,
+  "name_ja": "星",
+  "name_en": "The Star",
+  "keywords": "",
+  "source": "ライダー・ウェイト版（RWS）の一般公開名称"
+ },
+ {
+  "arcana": "major",
+  "no": 18,
+  "name_ja": "月",
+  "name_en": "The Moon",
+  "keywords": "",
+  "source": "ライダー・ウェイト版（RWS）の一般公開名称"
+ },
+ {
+  "arcana": "major",
+  "no": 19,
+  "name_ja": "太陽",
+  "name_en": "The Sun",
+  "keywords": "",
+  "source": "ライダー・ウェイト版（RWS）の一般公開名称"
+ },
+ {
+  "arcana": "major",
+  "no": 20,
+  "name_ja": "審判",
+  "name_en": "Judgement",
+  "keywords": "",
+  "source": "ライダー・ウェイト版（RWS）の一般公開名称"
+ },
+ {
+  "arcana": "major",
+  "no": 21,
+  "name_ja": "世界",
+  "name_en": "The World",
+  "keywords": "",
+  "source": "ライダー・ウェイト版（RWS）の一般公開名称"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "エースのワンド",
+  "name_en": "Ace of Wands",
+  "element": "火"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "ツーのワンド",
+  "name_en": "Two of Wands",
+  "element": "火"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "スリーのワンド",
+  "name_en": "Three of Wands",
+  "element": "火"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "フォーのワンド",
+  "name_en": "Four of Wands",
+  "element": "火"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "ファイブのワンド",
+  "name_en": "Five of Wands",
+  "element": "火"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "シックスのワンド",
+  "name_en": "Six of Wands",
+  "element": "火"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "セブンのワンド",
+  "name_en": "Seven of Wands",
+  "element": "火"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "エイトのワンド",
+  "name_en": "Eight of Wands",
+  "element": "火"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "ナインのワンド",
+  "name_en": "Nine of Wands",
+  "element": "火"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "テンのワンド",
+  "name_en": "Ten of Wands",
+  "element": "火"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "ワンドのペイジ",
+  "name_en": "Page of Wands",
+  "element": "火"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "ワンドのナイト",
+  "name_en": "Knight of Wands",
+  "element": "火"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "ワンドのクイーン",
+  "name_en": "Queen of Wands",
+  "element": "火"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "ワンドのキング",
+  "name_en": "King of Wands",
+  "element": "火"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "エースのカップ",
+  "name_en": "Ace of Cups",
+  "element": "水"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "ツーのカップ",
+  "name_en": "Two of Cups",
+  "element": "水"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "スリーのカップ",
+  "name_en": "Three of Cups",
+  "element": "水"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "フォーのカップ",
+  "name_en": "Four of Cups",
+  "element": "水"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "ファイブのカップ",
+  "name_en": "Five of Cups",
+  "element": "水"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "シックスのカップ",
+  "name_en": "Six of Cups",
+  "element": "水"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "セブンのカップ",
+  "name_en": "Seven of Cups",
+  "element": "水"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "エイトのカップ",
+  "name_en": "Eight of Cups",
+  "element": "水"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "ナインのカップ",
+  "name_en": "Nine of Cups",
+  "element": "水"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "テンのカップ",
+  "name_en": "Ten of Cups",
+  "element": "水"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "カップのペイジ",
+  "name_en": "Page of Cups",
+  "element": "水"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "カップのナイト",
+  "name_en": "Knight of Cups",
+  "element": "水"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "カップのクイーン",
+  "name_en": "Queen of Cups",
+  "element": "水"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "カップのキング",
+  "name_en": "King of Cups",
+  "element": "水"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "エースのソード",
+  "name_en": "Ace of Swords",
+  "element": "風"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "ツーのソード",
+  "name_en": "Two of Swords",
+  "element": "風"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "スリーのソード",
+  "name_en": "Three of Swords",
+  "element": "風"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "フォーのソード",
+  "name_en": "Four of Swords",
+  "element": "風"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "ファイブのソード",
+  "name_en": "Five of Swords",
+  "element": "風"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "シックスのソード",
+  "name_en": "Six of Swords",
+  "element": "風"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "セブンのソード",
+  "name_en": "Seven of Swords",
+  "element": "風"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "エイトのソード",
+  "name_en": "Eight of Swords",
+  "element": "風"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "ナインのソード",
+  "name_en": "Nine of Swords",
+  "element": "風"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "テンのソード",
+  "name_en": "Ten of Swords",
+  "element": "風"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "ソードのペイジ",
+  "name_en": "Page of Swords",
+  "element": "風"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "ソードのナイト",
+  "name_en": "Knight of Swords",
+  "element": "風"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "ソードのクイーン",
+  "name_en": "Queen of Swords",
+  "element": "風"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "ソードのキング",
+  "name_en": "King of Swords",
+  "element": "風"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "エースのペンタクル",
+  "name_en": "Ace of Pentacles",
+  "element": "土"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "ツーのペンタクル",
+  "name_en": "Two of Pentacles",
+  "element": "土"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "スリーのペンタクル",
+  "name_en": "Three of Pentacles",
+  "element": "土"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "フォーのペンタクル",
+  "name_en": "Four of Pentacles",
+  "element": "土"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "ファイブのペンタクル",
+  "name_en": "Five of Pentacles",
+  "element": "土"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "シックスのペンタクル",
+  "name_en": "Six of Pentacles",
+  "element": "土"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "セブンのペンタクル",
+  "name_en": "Seven of Pentacles",
+  "element": "土"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "エイトのペンタクル",
+  "name_en": "Eight of Pentacles",
+  "element": "土"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "ナインのペンタクル",
+  "name_en": "Nine of Pentacles",
+  "element": "土"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "テンのペンタクル",
+  "name_en": "Ten of Pentacles",
+  "element": "土"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "ペンタクルのペイジ",
+  "name_en": "Page of Pentacles",
+  "element": "土"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "ペンタクルのナイト",
+  "name_en": "Knight of Pentacles",
+  "element": "土"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "ペンタクルのクイーン",
+  "name_en": "Queen of Pentacles",
+  "element": "土"
+ },
+ {
+  "arcana": "minor",
+  "no": null,
+  "name_ja": "ペンタクルのキング",
+  "name_en": "King of Pentacles",
+  "element": "土"
+ }
+]

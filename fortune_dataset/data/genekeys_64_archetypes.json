@@ -1,0 +1,520 @@
+{
+ "structure": "鍵(1-64) → 鍵名（和）＋アーキタイプ名（和/英）＋スラッグ。画像のファイル名は NN_<ArchetypeSlug>.webp",
+ "status_7_64": "第1〜64鍵すべてに本データセット独自のアーキタイプ名（和名＋英スラッグ）を付与済み（2026-09-24 検証完了）",
+ "rights": "アーキタイプ名は本データセットのための独自命名。既存デッキの図像・文章は複製しない",
+ "items": [
+  {
+   "no": 1,
+   "key_name_ja": "自己表現",
+   "archetype_ja": "創造性の旅人",
+   "archetype_en": "The Traveler of Creativity",
+   "slug": "TravelerOfCreativity",
+   "status": "確定（ユーザー提供カード準拠）"
+  },
+  {
+   "no": 2,
+   "key_name_ja": "方向性",
+   "archetype_ja": "統合への航海者",
+   "archetype_en": "The Navigator of Unity",
+   "slug": "NavigatorOfUnity",
+   "status": "確定（本チャット暫定）"
+  },
+  {
+   "no": 3,
+   "key_name_ja": "秩序",
+   "archetype_ja": "無垢なる革新者",
+   "archetype_en": "The Innovator of Innocence",
+   "slug": "InnovatorOfInnocence",
+   "status": "確定（本チャット暫定）"
+  },
+  {
+   "no": 4,
+   "key_name_ja": "答え",
+   "archetype_ja": "答えをひらく者",
+   "archetype_en": "The Opener of the Answer",
+   "slug": "OpenerOfTheAnswer",
+   "status": "確定（本チャット暫定）"
+  },
+  {
+   "no": 5,
+   "key_name_ja": "タイミング",
+   "archetype_ja": "時を守る者",
+   "archetype_en": "The Keeper of Timing",
+   "slug": "KeeperOfTiming",
+   "status": "確定（本チャット暫定）"
+  },
+  {
+   "no": 6,
+   "key_name_ja": "摩擦",
+   "archetype_ja": "平和をつなぐ使者",
+   "archetype_en": "The Peacemaker of Friction",
+   "slug": "PeacemakerOfFriction",
+   "status": "確定（本チャット暫定）"
+  },
+  {
+   "no": 7,
+   "key_name_ja": "役割",
+   "archetype_ja": "導きの師",
+   "archetype_en": "The Guiding Elder",
+   "slug": "GuidingElder",
+   "status": "確定（本チャット暫定・独自命名）"
+  },
+  {
+   "no": 8,
+   "key_name_ja": "貢献",
+   "archetype_ja": "自らの様式を生きる者",
+   "archetype_en": "The Master of Style",
+   "slug": "MasterOfStyle",
+   "status": "確定（本チャット暫定・独自命名）"
+  },
+  {
+   "no": 9,
+   "key_name_ja": "集中",
+   "archetype_ja": "一点に注ぐ者",
+   "archetype_en": "The Focused One",
+   "slug": "FocusedOne",
+   "status": "確定（本チャット暫定・独自命名）"
+  },
+  {
+   "no": 10,
+   "key_name_ja": "自己",
+   "archetype_ja": "ありのままに在る者",
+   "archetype_en": "The Natural Being",
+   "slug": "NaturalBeing",
+   "status": "確定（本チャット暫定・独自命名）"
+  },
+  {
+   "no": 11,
+   "key_name_ja": "アイデア",
+   "archetype_ja": "光の夢見手",
+   "archetype_en": "The Dreamer of Light",
+   "slug": "DreamerOfLight",
+   "status": "確定（本チャット暫定・独自命名）"
+  },
+  {
+   "no": 12,
+   "key_name_ja": "慎重",
+   "archetype_ja": "純粋を見分ける者",
+   "archetype_en": "The Discerner of Purity",
+   "slug": "DiscernerOfPurity",
+   "status": "確定（本チャット暫定・独自命名）"
+  },
+  {
+   "no": 13,
+   "key_name_ja": "協力",
+   "archetype_ja": "記憶を聴く者",
+   "archetype_en": "The Listener of Memory",
+   "slug": "ListenerOfMemory",
+   "status": "確定（本チャット暫定・独自命名）"
+  },
+  {
+   "no": 14,
+   "key_name_ja": "力",
+   "archetype_ja": "豊穣を運ぶ者",
+   "archetype_en": "The Bearer of Abundance",
+   "slug": "BearerOfAbundance",
+   "status": "確定（本チャット暫定・独自命名）"
+  },
+  {
+   "no": 15,
+   "key_name_ja": "極端",
+   "archetype_ja": "流れをまとめる者",
+   "archetype_en": "The Keeper of the Flow",
+   "slug": "KeeperOfTheFlow",
+   "status": "確定（本チャット暫定・独自命名）"
+  },
+  {
+   "no": 16,
+   "key_name_ja": "スキル",
+   "archetype_ja": "熟達を磨く者",
+   "archetype_en": "The Master of Skills",
+   "slug": "MasterOfSkills",
+   "status": "確定（本チャット暫定・独自命名）"
+  },
+  {
+   "no": 17,
+   "key_name_ja": "意見",
+   "archetype_ja": "遠見の見者",
+   "archetype_en": "The Far-Seeing Seer",
+   "slug": "FarSeeingSeer",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 18,
+   "key_name_ja": "修正",
+   "archetype_ja": "形を整える癒し手",
+   "archetype_en": "The Healer of Form",
+   "slug": "HealerOfForm",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 19,
+   "key_name_ja": "欲求",
+   "archetype_ja": "未来の感受者",
+   "archetype_en": "The Sensitive Forerunner",
+   "slug": "SensitiveForerunner",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 20,
+   "key_name_ja": "現状",
+   "archetype_ja": "今に在る者",
+   "archetype_en": "The One of the Now",
+   "slug": "OneOfTheNow",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 21,
+   "key_name_ja": "ハンター",
+   "archetype_ja": "狩りの統率者",
+   "archetype_en": "The Leader of the Hunt",
+   "slug": "LeaderOfTheHunt",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 22,
+   "key_name_ja": "開かれる",
+   "archetype_ja": "恩寵をひらく者",
+   "archetype_en": "The Opener of Grace",
+   "slug": "OpenerOfGrace",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 23,
+   "key_name_ja": "同化",
+   "archetype_ja": "真髄を語る者",
+   "archetype_en": "The Translator of Essence",
+   "slug": "TranslatorOfEssence",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 24,
+   "key_name_ja": "合理化",
+   "archetype_ja": "静寂の発明家",
+   "archetype_en": "The Inventor of Silence",
+   "slug": "InventorOfSilence",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 25,
+   "key_name_ja": "無邪気",
+   "archetype_ja": "聖なる傷の癒し手",
+   "archetype_en": "The Healer of the Sacred Wound",
+   "slug": "HealerOfTheSacredWound",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 26,
+   "key_name_ja": "自己変革",
+   "archetype_ja": "姿を消す策士",
+   "archetype_en": "The Artful Trickster",
+   "slug": "ArtfulTrickster",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 27,
+   "key_name_ja": "思いやり",
+   "archetype_ja": "養いの手",
+   "archetype_en": "The Nourishing Hand",
+   "slug": "NourishingHand",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 28,
+   "key_name_ja": "ゲーム",
+   "archetype_ja": "全体に賭ける者",
+   "archetype_en": "The One Who Dares Totality",
+   "slug": "OneWhoDaresTotality",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 29,
+   "key_name_ja": "固執",
+   "archetype_ja": "流れに委ねる者",
+   "archetype_en": "The Devoted One",
+   "slug": "DevotedOne",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 30,
+   "key_name_ja": "感情",
+   "archetype_ja": "炎をまとう遊び人",
+   "archetype_en": "The Lighthearted Flame",
+   "slug": "LightheartedFlame",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 31,
+   "key_name_ja": "リーダー",
+   "archetype_ja": "先導する謙者",
+   "archetype_en": "The Humble Vanguard",
+   "slug": "HumbleVanguard",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 32,
+   "key_name_ja": "持続",
+   "archetype_ja": "続くものを守る者",
+   "archetype_en": "The Keeper of What Lasts",
+   "slug": "KeeperOfWhatLasts",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 33,
+   "key_name_ja": "撤退",
+   "archetype_ja": "手放す隠者",
+   "archetype_en": "The Hermit of Release",
+   "slug": "HermitOfRelease",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 34,
+   "key_name_ja": "偉大",
+   "archetype_ja": "力の達人",
+   "archetype_en": "The Master of Strength",
+   "slug": "MasterOfStrength",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 35,
+   "key_name_ja": "変化",
+   "archetype_ja": "無限へ踏み出す者",
+   "archetype_en": "The Adventurous Wanderer",
+   "slug": "AdventurousWanderer",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 36,
+   "key_name_ja": "危機",
+   "archetype_ja": "人の葛藤を抱く者",
+   "archetype_en": "The Compassionate Human",
+   "slug": "CompassionateHuman",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 37,
+   "key_name_ja": "友情",
+   "archetype_ja": "囲炉裏を守る者",
+   "archetype_en": "The Keeper of the Hearth",
+   "slug": "KeeperOfTheHearth",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 38,
+   "key_name_ja": "戦士",
+   "archetype_ja": "名誉のために闘う者",
+   "archetype_en": "The Warrior of Honor",
+   "slug": "WarriorOfHonor",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 39,
+   "key_name_ja": "妨害",
+   "archetype_ja": "解放の触媒",
+   "archetype_en": "The Catalyst of Liberation",
+   "slug": "CatalystOfLiberation",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 40,
+   "key_name_ja": "解放",
+   "archetype_ja": "神聖意志の器",
+   "archetype_en": "The Vessel of Divine Will",
+   "slug": "VesselOfDivineWill",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 41,
+   "key_name_ja": "減少",
+   "archetype_ja": "予感に満ちる者",
+   "archetype_en": "The Dreamer of Anticipation",
+   "slug": "DreamerOfAnticipation",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 42,
+   "key_name_ja": "成長",
+   "archetype_ja": "祝祭をひらく者",
+   "archetype_en": "The Opener of Celebration",
+   "slug": "OpenerOfCelebration",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 43,
+   "key_name_ja": "突破",
+   "archetype_ja": "内なる耳の覚者",
+   "archetype_en": "The Awakened Listener",
+   "slug": "AwakenedListener",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 44,
+   "key_name_ja": "不寛容",
+   "archetype_ja": "共同を織る調停者",
+   "archetype_en": "The Weaver of Teamwork",
+   "slug": "WeaverOfTeamwork",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 45,
+   "key_name_ja": "集合",
+   "archetype_ja": "交わりの卓を囲む者",
+   "archetype_en": "The Gatherer of Communion",
+   "slug": "GathererOfCommunion",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 46,
+   "key_name_ja": "決定",
+   "archetype_ja": "悦びに身をゆだねる者",
+   "archetype_en": "The Delighted One",
+   "slug": "DelightedOne",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 47,
+   "key_name_ja": "順応",
+   "archetype_ja": "過去を錬金する者",
+   "archetype_en": "The Alchemist of Transmutation",
+   "slug": "AlchemistOfTransmutation",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 48,
+   "key_name_ja": "深み",
+   "archetype_ja": "深みから汲む者",
+   "archetype_en": "The Diver of Depth",
+   "slug": "DiverOfDepth",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 49,
+   "key_name_ja": "原理",
+   "archetype_ja": "再生を告げる者",
+   "archetype_en": "The Revolutionary Herald",
+   "slug": "RevolutionaryHerald",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 50,
+   "key_name_ja": "価値",
+   "archetype_ja": "調和を保つ番人",
+   "archetype_en": "The Guardian of Harmony",
+   "slug": "GuardianOfHarmony",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 51,
+   "key_name_ja": "覚醒",
+   "archetype_ja": "覚醒を先駆ける者",
+   "archetype_en": "The Pioneer of Awakening",
+   "slug": "PioneerOfAwakening",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 52,
+   "key_name_ja": "静止",
+   "archetype_ja": "静けさに座す者",
+   "archetype_en": "The One Who Rests in Stillness",
+   "slug": "OneWhoRestsInStillness",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 53,
+   "key_name_ja": "後退",
+   "archetype_ja": "始まりを蒔く者",
+   "archetype_en": "The Initiator of Beginnings",
+   "slug": "InitiatorOfBeginnings",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 54,
+   "key_name_ja": "野心",
+   "archetype_ja": "上昇を望む者",
+   "archetype_en": "The Aspirant of Ascension",
+   "slug": "AspirantOfAscension",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 55,
+   "key_name_ja": "精神",
+   "archetype_ja": "自由を取り戻す者",
+   "archetype_en": "The Reclaimer of Freedom",
+   "slug": "ReclaimerOfFreedom",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 56,
+   "key_name_ja": "豊かさ",
+   "archetype_ja": "物語に酔う者",
+   "archetype_en": "The Storyteller of Enchantment",
+   "slug": "StorytellerOfEnchantment",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 57,
+   "key_name_ja": "直感",
+   "archetype_ja": "直感を澄ませる者",
+   "archetype_en": "The Clear Intuitive",
+   "slug": "ClearIntuitive",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 58,
+   "key_name_ja": "完成",
+   "archetype_ja": "生気を注ぐ者",
+   "archetype_en": "The Infuser of Vitality",
+   "slug": "InfuserOfVitality",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 59,
+   "key_name_ja": "親密",
+   "archetype_ja": "透明な親密さの持ち主",
+   "archetype_en": "The Transparent One",
+   "slug": "TransparentOne",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 60,
+   "key_name_ja": "現実",
+   "archetype_ja": "現実を敬う正義の人",
+   "archetype_en": "The Realist of Justice",
+   "slug": "RealistOfJustice",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 61,
+   "key_name_ja": "詳細",
+   "archetype_ja": "霊感の聖なる器",
+   "archetype_en": "The Vessel of Inspiration",
+   "slug": "VesselOfInspiration",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 62,
+   "key_name_ja": "誠実",
+   "archetype_ja": "精密さの職人",
+   "archetype_en": "The Craftsperson of Precision",
+   "slug": "CraftspersonOfPrecision",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 63,
+   "key_name_ja": "疑い",
+   "archetype_ja": "探究する探偵",
+   "archetype_en": "The Inquiring Detective",
+   "slug": "InquiringDetective",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  },
+  {
+   "no": 64,
+   "key_name_ja": "迷い",
+   "archetype_ja": "想像の芸術家",
+   "archetype_en": "The Artist of Imagination",
+   "slug": "ArtistOfImagination",
+   "status": "確定（2026-09-24 検証フェーズで付与・本データセット独自命名）"
+  }
+ ],
+ "official_note": "公式Gene Keysに「鍵のアーキタイプ名」の統一リストは存在しない。公式はI Ching六十四卦の伝統名（1 The Creative / 2 The Receptive / … / 64 Before Completion）を用いる。参考カードの『1. The Traveler of Creativity』は特定デッキの独自命名（出典特定できず）。本データセットは権利上安全なよう独自命名で統一する。"
+}

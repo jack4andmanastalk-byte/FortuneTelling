@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+*.egg-info/
+
+# ビルド成果物・作業領域（配布 ZIP はここに作って検査後に消す）
+build/
+dist/
+demo_out/
+verify/out_audit/
+
+# 開発側だけに置くもの（公開しない）
+internal/
+uploads/
+assets_bases/
+tools/font_sources/
+
+# 実行結果・一時ファイル
+output/
+tmp_progress/
+*.log
+*.zip
+.DS_Store
+Thumbs.db
+
+# 秘密情報
+.env
+*.key
+kaggle.json

@@ -1,0 +1,440 @@
+{
+ "structure": "運命数(1-60) → 動物(12種)×カラー(5種) ＋ 性格プロファイル",
+ "note": "性格プロファイルは data/doubutsu_60character.csv 由来。カラーは未検証（known_anchors のみ）",
+ "counts": {
+  "チーター": 4,
+  "たぬき": 4,
+  "猿": 6,
+  "コアラ": 6,
+  "黒ヒョウ": 6,
+  "トラ": 6,
+  "こじか": 4,
+  "ゾウ": 4,
+  "狼": 6,
+  "ひつじ": 6,
+  "ペガサス": 4,
+  "ライオン": 4
+ },
+ "items": [
+  {
+   "no": 1,
+   "profile": "持久力のあるチーター",
+   "animal": "チーター",
+   "animal_en": "Cheetah",
+   "slug": "01_Cheetah"
+  },
+  {
+   "no": 2,
+   "profile": "社交的なたぬき",
+   "animal": "たぬき",
+   "animal_en": "Tanuki",
+   "slug": "02_Tanuki"
+  },
+  {
+   "no": 3,
+   "profile": "活発な猿",
+   "animal": "猿",
+   "animal_en": "Monkey",
+   "slug": "03_Monkey"
+  },
+  {
+   "no": 4,
+   "profile": "機敏なコアラ",
+   "animal": "コアラ",
+   "animal_en": "Koala",
+   "slug": "04_Koala"
+  },
+  {
+   "no": 5,
+   "profile": "世話好きな黒ヒョウ",
+   "animal": "黒ヒョウ",
+   "animal_en": "Black Panther",
+   "slug": "05_BlackPanther"
+  },
+  {
+   "no": 6,
+   "profile": "愛にあふれるトラ",
+   "animal": "トラ",
+   "animal_en": "Tiger",
+   "slug": "06_Tiger"
+  },
+  {
+   "no": 7,
+   "profile": "機敏なチーター",
+   "animal": "チーター",
+   "animal_en": "Cheetah",
+   "slug": "07_Cheetah"
+  },
+  {
+   "no": 8,
+   "profile": "品格のあるたぬき",
+   "animal": "たぬき",
+   "animal_en": "Tanuki",
+   "slug": "08_Tanuki"
+  },
+  {
+   "no": 9,
+   "profile": "野望を持った猿",
+   "animal": "猿",
+   "animal_en": "Monkey",
+   "slug": "09_Monkey"
+  },
+  {
+   "no": 10,
+   "profile": "面倒見の良いコアラ",
+   "animal": "コアラ",
+   "animal_en": "Koala",
+   "slug": "10_Koala"
+  },
+  {
+   "no": 11,
+   "profile": "誠実なこじか",
+   "animal": "こじか",
+   "animal_en": "Fawn",
+   "slug": "11_Fawn"
+  },
+  {
+   "no": 12,
+   "profile": "好感のもたれるゾウ",
+   "animal": "ゾウ",
+   "animal_en": "Elephant",
+   "slug": "12_Elephant"
+  },
+  {
+   "no": 13,
+   "profile": "お調子者の狼",
+   "animal": "狼",
+   "animal_en": "Wolf",
+   "slug": "13_Wolf"
+  },
+  {
+   "no": 14,
+   "profile": "自由気ままなひつじ",
+   "animal": "ひつじ",
+   "animal_en": "Sheep",
+   "slug": "14_Sheep"
+  },
+  {
+   "no": 15,
+   "profile": "親分肌の猿",
+   "animal": "猿",
+   "animal_en": "Monkey",
+   "slug": "15_Monkey"
+  },
+  {
+   "no": 16,
+   "profile": "社交的なコアラ",
+   "animal": "コアラ",
+   "animal_en": "Koala",
+   "slug": "16_Koala"
+  },
+  {
+   "no": 17,
+   "profile": "大きな志をもったこじか",
+   "animal": "こじか",
+   "animal_en": "Fawn",
+   "slug": "17_Fawn"
+  },
+  {
+   "no": 18,
+   "profile": "傷つきやすいゾウ",
+   "animal": "ゾウ",
+   "animal_en": "Elephant",
+   "slug": "18_Elephant"
+  },
+  {
+   "no": 19,
+   "profile": "さすらいの狼",
+   "animal": "狼",
+   "animal_en": "Wolf",
+   "slug": "19_Wolf"
+  },
+  {
+   "no": 20,
+   "profile": "穏やかなひつじ",
+   "animal": "ひつじ",
+   "animal_en": "Sheep",
+   "slug": "20_Sheep"
+  },
+  {
+   "no": 21,
+   "profile": "物静かなペガサス",
+   "animal": "ペガサス",
+   "animal_en": "Pegasus",
+   "slug": "21_Pegasus"
+  },
+  {
+   "no": 22,
+   "profile": "輝く翼を持つペガサス",
+   "animal": "ペガサス",
+   "animal_en": "Pegasus",
+   "slug": "22_Pegasus"
+  },
+  {
+   "no": 23,
+   "profile": "純粋無垢なひつじ",
+   "animal": "ひつじ",
+   "animal_en": "Sheep",
+   "slug": "23_Sheep"
+  },
+  {
+   "no": 24,
+   "profile": "才能溢れる狼",
+   "animal": "狼",
+   "animal_en": "Wolf",
+   "slug": "24_Wolf"
+  },
+  {
+   "no": 25,
+   "profile": "ほのぼのとした狼",
+   "animal": "狼",
+   "animal_en": "Wolf",
+   "slug": "25_Wolf"
+  },
+  {
+   "no": 26,
+   "profile": "努力家のひつじ",
+   "animal": "ひつじ",
+   "animal_en": "Sheep",
+   "slug": "26_Sheep"
+  },
+  {
+   "no": 27,
+   "profile": "波乱万丈なペガサス",
+   "animal": "ペガサス",
+   "animal_en": "Pegasus",
+   "slug": "27_Pegasus"
+  },
+  {
+   "no": 28,
+   "profile": "品格のあるペガサス",
+   "animal": "ペガサス",
+   "animal_en": "Pegasus",
+   "slug": "28_Pegasus"
+  },
+  {
+   "no": 29,
+   "profile": "挑戦大好きなひつじ",
+   "animal": "ひつじ",
+   "animal_en": "Sheep",
+   "slug": "29_Sheep"
+  },
+  {
+   "no": 30,
+   "profile": "適応力のある狼",
+   "animal": "狼",
+   "animal_en": "Wolf",
+   "slug": "30_Wolf"
+  },
+  {
+   "no": 31,
+   "profile": "統率力のあるゾウ",
+   "animal": "ゾウ",
+   "animal_en": "Elephant",
+   "slug": "31_Elephant"
+  },
+  {
+   "no": 32,
+   "profile": "勤勉なこじか",
+   "animal": "こじか",
+   "animal_en": "Fawn",
+   "slug": "32_Fawn"
+  },
+  {
+   "no": 33,
+   "profile": "動きまわるコアラ",
+   "animal": "コアラ",
+   "animal_en": "Koala",
+   "slug": "33_Koala"
+  },
+  {
+   "no": 34,
+   "profile": "世渡り上手な猿",
+   "animal": "猿",
+   "animal_en": "Monkey",
+   "slug": "34_Monkey"
+  },
+  {
+   "no": 35,
+   "profile": "頼りにされるひつじ",
+   "animal": "ひつじ",
+   "animal_en": "Sheep",
+   "slug": "35_Sheep"
+  },
+  {
+   "no": 36,
+   "profile": "愛される狼",
+   "animal": "狼",
+   "animal_en": "Wolf",
+   "slug": "36_Wolf"
+  },
+  {
+   "no": 37,
+   "profile": "全力疾走するゾウ",
+   "animal": "ゾウ",
+   "animal_en": "Elephant",
+   "slug": "37_Elephant"
+  },
+  {
+   "no": 38,
+   "profile": "エレガントなこじか",
+   "animal": "こじか",
+   "animal_en": "Fawn",
+   "slug": "38_Fawn"
+  },
+  {
+   "no": 39,
+   "profile": "大きな夢を持つコアラ",
+   "animal": "コアラ",
+   "animal_en": "Koala",
+   "slug": "39_Koala"
+  },
+  {
+   "no": 40,
+   "profile": "献身的な猿",
+   "animal": "猿",
+   "animal_en": "Monkey",
+   "slug": "40_Monkey"
+  },
+  {
+   "no": 41,
+   "profile": "努力家のたぬき",
+   "animal": "たぬき",
+   "animal_en": "Tanuki",
+   "slug": "41_Tanuki"
+  },
+  {
+   "no": 42,
+   "profile": "勇敢なチーター",
+   "animal": "チーター",
+   "animal_en": "Cheetah",
+   "slug": "42_Cheetah"
+  },
+  {
+   "no": 43,
+   "profile": "活発なトラ",
+   "animal": "トラ",
+   "animal_en": "Tiger",
+   "slug": "43_Tiger"
+  },
+  {
+   "no": 44,
+   "profile": "ロマンチストな黒ヒョウ",
+   "animal": "黒ヒョウ",
+   "animal_en": "Black Panther",
+   "slug": "44_BlackPanther"
+  },
+  {
+   "no": 45,
+   "profile": "器用で芸達者なコアラ",
+   "animal": "コアラ",
+   "animal_en": "Koala",
+   "slug": "45_Koala"
+  },
+  {
+   "no": 46,
+   "profile": "用心深い猿",
+   "animal": "猿",
+   "animal_en": "Monkey",
+   "slug": "46_Monkey"
+  },
+  {
+   "no": 47,
+   "profile": "人情味にあふれるたぬき",
+   "animal": "たぬき",
+   "animal_en": "Tanuki",
+   "slug": "47_Tanuki"
+  },
+  {
+   "no": 48,
+   "profile": "上品なチーター",
+   "animal": "チーター",
+   "animal_en": "Cheetah",
+   "slug": "48_Cheetah"
+  },
+  {
+   "no": 49,
+   "profile": "のんびりしたトラ",
+   "animal": "トラ",
+   "animal_en": "Tiger",
+   "slug": "49_Tiger"
+  },
+  {
+   "no": 50,
+   "profile": "浮き沈みが激しい黒ヒョウ",
+   "animal": "黒ヒョウ",
+   "animal_en": "Black Panther",
+   "slug": "50_BlackPanther"
+  },
+  {
+   "no": 51,
+   "profile": "自由気ままなライオン",
+   "animal": "ライオン",
+   "animal_en": "Lion",
+   "slug": "51_Lion"
+  },
+  {
+   "no": 52,
+   "profile": "リーダー気質のライオン",
+   "animal": "ライオン",
+   "animal_en": "Lion",
+   "slug": "52_Lion"
+  },
+  {
+   "no": 53,
+   "profile": "人間味あふれる黒ヒョウ",
+   "animal": "黒ヒョウ",
+   "animal_en": "Black Panther",
+   "slug": "53_BlackPanther"
+  },
+  {
+   "no": 54,
+   "profile": "ポジティブなトラ",
+   "animal": "トラ",
+   "animal_en": "Tiger",
+   "slug": "54_Tiger"
+  },
+  {
+   "no": 55,
+   "profile": "力強いトラ",
+   "animal": "トラ",
+   "animal_en": "Tiger",
+   "slug": "55_Tiger"
+  },
+  {
+   "no": 56,
+   "profile": "お気楽な黒ヒョウ",
+   "animal": "黒ヒョウ",
+   "animal_en": "Black Panther",
+   "slug": "56_BlackPanther"
+  },
+  {
+   "no": 57,
+   "profile": "感情豊かなライオン",
+   "animal": "ライオン",
+   "animal_en": "Lion",
+   "slug": "57_Lion"
+  },
+  {
+   "no": 58,
+   "profile": "臆病なライオン",
+   "animal": "ライオン",
+   "animal_en": "Lion",
+   "slug": "58_Lion"
+  },
+  {
+   "no": 59,
+   "profile": "束縛が嫌いな黒ヒョウ",
+   "animal": "黒ヒョウ",
+   "animal_en": "Black Panther",
+   "slug": "59_BlackPanther"
+  },
+  {
+   "no": 60,
+   "profile": "天使のようなトラ",
+   "animal": "トラ",
+   "animal_en": "Tiger",
+   "slug": "60_Tiger"
+  }
+ ]
+}

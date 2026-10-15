@@ -1,0 +1,254 @@
+[
+ {
+  "no": 1,
+  "name_ja": "騎士",
+  "name_en": "Rider",
+  "keyword_ja": "知らせ・訪問・移動",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 2,
+  "name_ja": "クローバー",
+  "name_en": "Clover",
+  "keyword_ja": "幸運・偶然・小さな喜び",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 3,
+  "name_ja": "船",
+  "name_en": "Ship",
+  "keyword_ja": "旅・商業・変化",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 4,
+  "name_ja": "家",
+  "name_en": "House",
+  "keyword_ja": "家庭・安定・居場所",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 5,
+  "name_ja": "木",
+  "name_en": "Tree",
+  "keyword_ja": "健康・成長・家族",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 6,
+  "name_ja": "雲",
+  "name_en": "Clouds",
+  "keyword_ja": "混乱・不安・霧",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 7,
+  "name_ja": "蛇",
+  "name_en": "Snake",
+  "keyword_ja": "誘惑・知恵・複雑さ",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 8,
+  "name_ja": "棺",
+  "name_en": "Coffin",
+  "keyword_ja": "終わり・停滞・閉塞",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 9,
+  "name_ja": "花束",
+  "name_en": "Bouquet",
+  "keyword_ja": "贈り物・喜び・魅力",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 10,
+  "name_ja": "鎌",
+  "name_en": "Scythe",
+  "keyword_ja": "切断・急な変化・警告",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 11,
+  "name_ja": "鞭",
+  "name_en": "Whip",
+  "keyword_ja": "議論・反復・緊張",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 12,
+  "name_ja": "鳥",
+  "name_en": "Birds",
+  "keyword_ja": "会話・短い知らせ・不安",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 13,
+  "name_ja": "子供",
+  "name_en": "Child",
+  "keyword_ja": "始まり・純真・小さなこと",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 14,
+  "name_ja": "狐",
+  "name_en": "Fox",
+  "keyword_ja": "策略・ずるさ・警戒",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 15,
+  "name_ja": "熊",
+  "name_en": "Bear",
+  "keyword_ja": "力・保護・権力",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 16,
+  "name_ja": "星",
+  "name_en": "Stars",
+  "keyword_ja": "希望・目標・導き",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 17,
+  "name_ja": "コウノトリ",
+  "name_en": "Stork",
+  "keyword_ja": "変化・転機・出産",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 18,
+  "name_ja": "犬",
+  "name_en": "Dog",
+  "keyword_ja": "友情・忠誠・助け",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 19,
+  "name_ja": "塔",
+  "name_en": "Tower",
+  "keyword_ja": "孤独・分離・権威",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 20,
+  "name_ja": "庭",
+  "name_en": "Garden",
+  "keyword_ja": "社交・集まり・出会い",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 21,
+  "name_ja": "山",
+  "name_en": "Mountain",
+  "keyword_ja": "障害・遅れ・困難",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 22,
+  "name_ja": "道",
+  "name_en": "Crossroads",
+  "keyword_ja": "選択・分岐・自由",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 23,
+  "name_ja": "鼠",
+  "name_en": "Mice",
+  "keyword_ja": "損失・減少・細かい問題",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 24,
+  "name_ja": "心",
+  "name_en": "Heart",
+  "keyword_ja": "愛情・感情・誠実",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 25,
+  "name_ja": "指輪",
+  "name_en": "Ring",
+  "keyword_ja": "約束・絆・契約",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 26,
+  "name_ja": "本",
+  "name_en": "Book",
+  "keyword_ja": "秘密・学び・知識",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 27,
+  "name_ja": "手紙",
+  "name_en": "Letter",
+  "keyword_ja": "連絡・文書・メッセージ",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 28,
+  "name_ja": "男性",
+  "name_en": "Man",
+  "keyword_ja": "男性・本人・パートナー",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 29,
+  "name_ja": "女性",
+  "name_en": "Woman",
+  "keyword_ja": "女性・本人・パートナー",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 30,
+  "name_ja": "ユリ",
+  "name_en": "Lily",
+  "keyword_ja": "成熟・平和・徳",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 31,
+  "name_ja": "太陽",
+  "name_en": "Sun",
+  "keyword_ja": "成功・活力・明るさ",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 32,
+  "name_ja": "月",
+  "name_en": "Moon",
+  "keyword_ja": "感情・名声・直感",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 33,
+  "name_ja": "鍵",
+  "name_en": "Key",
+  "keyword_ja": "解決・解放・鍵となる人",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 34,
+  "name_ja": "魚",
+  "name_en": "Fish",
+  "keyword_ja": "財・豊かさ・ビジネス",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 35,
+  "name_ja": "錨",
+  "name_en": "Anchor",
+  "keyword_ja": "安定・目標・確実さ",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ },
+ {
+  "no": 36,
+  "name_ja": "十字架",
+  "name_en": "Cross",
+  "keyword_ja": "試練・運命・信仰",
+  "source": "レノルマンカード36枚の一般公開意味体系"
+ }
+]

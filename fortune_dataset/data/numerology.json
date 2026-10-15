@@ -1,0 +1,86 @@
+[
+ {
+  "number": 1,
+  "keyword": "リーダーシップ・独立・先駆性",
+  "planet": "太陽",
+  "is_master": false,
+  "source": "ピタゴラス式数秘術の一般公開キーワード"
+ },
+ {
+  "number": 2,
+  "keyword": "協調・調和・感受性",
+  "planet": "月",
+  "is_master": false,
+  "source": "ピタゴラス式数秘術の一般公開キーワード"
+ },
+ {
+  "number": 3,
+  "keyword": "表現・社交・楽観",
+  "planet": "木星",
+  "is_master": false,
+  "source": "ピタゴラス式数秘術の一般公開キーワード"
+ },
+ {
+  "number": 4,
+  "keyword": "安定・努力・現実性",
+  "planet": "天王星",
+  "is_master": false,
+  "source": "ピタゴラス式数秘術の一般公開キーワード"
+ },
+ {
+  "number": 5,
+  "keyword": "自由・変化・冒険",
+  "planet": "水星",
+  "is_master": false,
+  "source": "ピタゴラス式数秘術の一般公開キーワード"
+ },
+ {
+  "number": 6,
+  "keyword": "愛・責任・家庭",
+  "planet": "金星",
+  "is_master": false,
+  "source": "ピタゴラス式数秘術の一般公開キーワード"
+ },
+ {
+  "number": 7,
+  "keyword": "探求・分析・精神性",
+  "planet": "海王星",
+  "is_master": false,
+  "source": "ピタゴラス式数秘術の一般公開キーワード"
+ },
+ {
+  "number": 8,
+  "keyword": "達成・権力・物質",
+  "planet": "土星",
+  "is_master": false,
+  "source": "ピタゴラス式数秘術の一般公開キーワード"
+ },
+ {
+  "number": 9,
+  "keyword": "完結・博愛・理想",
+  "planet": "火星",
+  "is_master": false,
+  "source": "ピタゴラス式数秘術の一般公開キーワード"
+ },
+ {
+  "number": 11,
+  "keyword": "直感・霊感・理想主義（マスター）",
+  "planet": "—",
+  "is_master": true,
+  "source": "ピタゴラス式数秘術の一般公開キーワード"
+ },
+ {
+  "number": 22,
+  "keyword": "構築力・実現力（マスタービルダー）",
+  "planet": "—",
+  "is_master": true,
+  "source": "ピタゴラス式数秘術の一般公開キーワード"
+ },
+ {
+  "number": 33,
+  "keyword": "奉仕・教導（マスター）",
+  "planet": "—",
+  "is_master": true,
+  "source": "ピタゴラス式数秘術の一般公開キーワード"
+ }
+]

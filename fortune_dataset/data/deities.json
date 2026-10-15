@@ -1,0 +1,1120 @@
+{
+ "meta": {
+  "title": "御縁のある神さま（6文明・計138柱）",
+  "note": "神話事典レベルの公開情報に基づく。信仰・教義を代表するものではなく、エンターテインメント用途の疑似オラクル。",
+  "pantheons": [
+   "メソポタミア",
+   "エジプト",
+   "ギリシャ",
+   "インド",
+   "中国",
+   "日本"
+  ]
+ },
+ "deities": [
+  {
+   "pantheon": "メソポタミア",
+   "name": "アヌ",
+   "en": "Anu",
+   "domain": "天空・至高の権威",
+   "symbol": "天の玉座",
+   "keyword": "秩序の頂点"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "エンリル",
+   "en": "Enlil",
+   "domain": "風・大気・王権",
+   "symbol": "嵐",
+   "keyword": "決断と実行"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "エンキ",
+   "en": "Enki",
+   "domain": "水・知恵・技芸",
+   "symbol": "流れる水・山羊魚",
+   "keyword": "知略と創意"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "イナンナ",
+   "en": "Inanna",
+   "domain": "愛・戦・金星",
+   "symbol": "八芒星",
+   "keyword": "情熱と変容"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "ウトゥ（シャマシュ）",
+   "en": "Utu (Shamash)",
+   "domain": "太陽・正義・裁き",
+   "symbol": "太陽円盤・鋸",
+   "keyword": "公正な裁定"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "ナンナ（シン）",
+   "en": "Nanna (Sin)",
+   "domain": "月・暦・時",
+   "symbol": "三日月",
+   "keyword": "周期と熟成"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "ニンフルサグ",
+   "en": "Ninhursag",
+   "domain": "大地・産育",
+   "symbol": "Ω字の子宮印",
+   "keyword": "育みと再生"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "エレシュキガル",
+   "en": "Ereshkigal",
+   "domain": "冥界・境界",
+   "symbol": "冥界の門",
+   "keyword": "内省と終焉"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "ナブー",
+   "en": "Nabu",
+   "domain": "書記・学問・言葉",
+   "symbol": "尖筆と粘土板",
+   "keyword": "記録と学び"
+  },
+  {
+   "pantheon": "エジプト",
+   "name": "ラー",
+   "en": "Ra",
+   "domain": "太陽・王権",
+   "symbol": "太陽円盤・隼",
+   "keyword": "生命の源"
+  },
+  {
+   "pantheon": "エジプト",
+   "name": "イシス",
+   "en": "Isis",
+   "domain": "魔法・母性・癒し",
+   "symbol": "玉座の冠",
+   "keyword": "守護と回復"
+  },
+  {
+   "pantheon": "エジプト",
+   "name": "オシリス",
+   "en": "Osiris",
+   "domain": "再生・冥界・農耕",
+   "symbol": "アテフ冠・穀物",
+   "keyword": "死と再生"
+  },
+  {
+   "pantheon": "エジプト",
+   "name": "ホルス",
+   "en": "Horus",
+   "domain": "天空・王・勝利",
+   "symbol": "隼の目",
+   "keyword": "克己と勝利"
+  },
+  {
+   "pantheon": "エジプト",
+   "name": "トート",
+   "en": "Thoth",
+   "domain": "知恵・文字・計測",
+   "symbol": "朱鷺・書板",
+   "keyword": "知性と均衡"
+  },
+  {
+   "pantheon": "エジプト",
+   "name": "マアト",
+   "en": "Maat",
+   "domain": "真理・正義・秩序",
+   "symbol": "真理の羽根",
+   "keyword": "公正と調和"
+  },
+  {
+   "pantheon": "エジプト",
+   "name": "ハトホル",
+   "en": "Hathor",
+   "domain": "愛・音楽・豊穣",
+   "symbol": "牝牛の角と円盤",
+   "keyword": "歓びと豊かさ"
+  },
+  {
+   "pantheon": "エジプト",
+   "name": "アヌビス",
+   "en": "Anubis",
+   "domain": "導き・防腐・境界",
+   "symbol": "ジャッカル",
+   "keyword": "移行の導き手"
+  },
+  {
+   "pantheon": "エジプト",
+   "name": "セクメト",
+   "en": "Sekhmet",
+   "domain": "戦・疫病・治癒",
+   "symbol": "雌獅子",
+   "keyword": "浄化する力"
+  },
+  {
+   "pantheon": "エジプト",
+   "name": "プタハ",
+   "en": "Ptah",
+   "domain": "工匠・創造・言葉",
+   "symbol": "杖と職人の帽",
+   "keyword": "形にする力"
+  },
+  {
+   "pantheon": "ギリシャ",
+   "name": "ゼウス",
+   "en": "Zeus",
+   "domain": "天空・雷・秩序",
+   "symbol": "雷霆・鷲",
+   "keyword": "統率と裁定"
+  },
+  {
+   "pantheon": "ギリシャ",
+   "name": "ヘラ",
+   "en": "Hera",
+   "domain": "結婚・家庭・王妃",
+   "symbol": "孔雀・王冠",
+   "keyword": "誓いと絆"
+  },
+  {
+   "pantheon": "ギリシャ",
+   "name": "アテナ",
+   "en": "Athena",
+   "domain": "知恵・戦略・技芸",
+   "symbol": "梟・アイギス",
+   "keyword": "賢明な戦略"
+  },
+  {
+   "pantheon": "ギリシャ",
+   "name": "アポロン",
+   "en": "Apollo",
+   "domain": "光・音楽・予言",
+   "symbol": "竪琴・月桂樹",
+   "keyword": "明晰と芸術"
+  },
+  {
+   "pantheon": "ギリシャ",
+   "name": "アルテミス",
+   "en": "Artemis",
+   "domain": "月・狩猟・自立",
+   "symbol": "弓・鹿",
+   "keyword": "独立と純度"
+  },
+  {
+   "pantheon": "ギリシャ",
+   "name": "ヘルメス",
+   "en": "Hermes",
+   "domain": "伝達・旅・商業",
+   "symbol": "カドゥケウス・翼靴",
+   "keyword": "機転と往来"
+  },
+  {
+   "pantheon": "ギリシャ",
+   "name": "アフロディーテ",
+   "en": "Aphrodite",
+   "domain": "愛・美・魅了",
+   "symbol": "貝殻・薔薇",
+   "keyword": "魅力と結合"
+  },
+  {
+   "pantheon": "ギリシャ",
+   "name": "デメテル",
+   "en": "Demeter",
+   "domain": "穀物・季節・母",
+   "symbol": "麦穂",
+   "keyword": "滋養と巡り"
+  },
+  {
+   "pantheon": "ギリシャ",
+   "name": "ヘスティア",
+   "en": "Hestia",
+   "domain": "炉・家庭・中心",
+   "symbol": "竈の火",
+   "keyword": "安らぎの中心"
+  },
+  {
+   "pantheon": "ギリシャ",
+   "name": "ディオニュソス",
+   "en": "Dionysus",
+   "domain": "葡萄酒・恍惚・演劇",
+   "symbol": "葡萄・テュルソス",
+   "keyword": "解放と陶酔"
+  },
+  {
+   "pantheon": "インド",
+   "name": "ブラフマー",
+   "en": "Brahma",
+   "domain": "創造・知識",
+   "symbol": "四つの顔・蓮",
+   "keyword": "始まりの構想"
+  },
+  {
+   "pantheon": "インド",
+   "name": "ヴィシュヌ",
+   "en": "Vishnu",
+   "domain": "維持・守護",
+   "symbol": "円盤・法螺貝",
+   "keyword": "保全と調和"
+  },
+  {
+   "pantheon": "インド",
+   "name": "シヴァ",
+   "en": "Shiva",
+   "domain": "破壊と再生・瞑想",
+   "symbol": "三叉戟・三日月",
+   "keyword": "変容と静寂"
+  },
+  {
+   "pantheon": "インド",
+   "name": "ラクシュミー",
+   "en": "Lakshmi",
+   "domain": "富・幸運・繁栄",
+   "symbol": "蓮・金貨",
+   "keyword": "豊かさの招来"
+  },
+  {
+   "pantheon": "インド",
+   "name": "サラスヴァティー",
+   "en": "Saraswati",
+   "domain": "学問・音楽・弁舌",
+   "symbol": "ヴィーナ・白鳥",
+   "keyword": "学びと表現"
+  },
+  {
+   "pantheon": "インド",
+   "name": "ドゥルガー",
+   "en": "Durga",
+   "domain": "守護・武勇・克服",
+   "symbol": "獅子・多臂の武器",
+   "keyword": "障害の打破"
+  },
+  {
+   "pantheon": "インド",
+   "name": "ガネーシャ",
+   "en": "Ganesha",
+   "domain": "障害除去・始まり",
+   "symbol": "象頭・鼠",
+   "keyword": "門出の加護"
+  },
+  {
+   "pantheon": "インド",
+   "name": "ハヌマーン",
+   "en": "Hanuman",
+   "domain": "忠誠・勇気・献身",
+   "symbol": "棍棒",
+   "keyword": "不屈の献身"
+  },
+  {
+   "pantheon": "インド",
+   "name": "インドラ",
+   "en": "Indra",
+   "domain": "雷雨・天空・戦",
+   "symbol": "金剛杵ヴァジュラ",
+   "keyword": "威勢と決断"
+  },
+  {
+   "pantheon": "インド",
+   "name": "カーリー",
+   "en": "Kali",
+   "domain": "時・変革・解放",
+   "symbol": "剣・首飾り",
+   "keyword": "断ち切る力"
+  },
+  {
+   "pantheon": "中国",
+   "name": "玉皇大帝",
+   "en": "Jade Emperor",
+   "domain": "天帝・統治",
+   "symbol": "天冠・笏",
+   "keyword": "天命と統治"
+  },
+  {
+   "pantheon": "中国",
+   "name": "西王母",
+   "en": "Xiwangmu",
+   "domain": "不老・崑崙・女仙",
+   "symbol": "蟠桃",
+   "keyword": "長寿と超越"
+  },
+  {
+   "pantheon": "中国",
+   "name": "女媧",
+   "en": "Nüwa",
+   "domain": "創造・修復・婚姻",
+   "symbol": "人首蛇身・五色石",
+   "keyword": "繕いと創生"
+  },
+  {
+   "pantheon": "中国",
+   "name": "伏羲",
+   "en": "Fuxi",
+   "domain": "八卦・文明・易",
+   "symbol": "八卦図",
+   "keyword": "理法の発見"
+  },
+  {
+   "pantheon": "中国",
+   "name": "太上老君",
+   "en": "Laozi",
+   "domain": "道・自然・修養",
+   "symbol": "払子・牛",
+   "keyword": "無為自然"
+  },
+  {
+   "pantheon": "中国",
+   "name": "福禄寿",
+   "en": "Fu Lu Shou",
+   "domain": "福・禄・寿",
+   "symbol": "桃・巻物",
+   "keyword": "三徳の調和"
+  },
+  {
+   "pantheon": "日本",
+   "name": "天照大御神",
+   "en": "Amaterasu",
+   "domain": "太陽・皇祖・照覧",
+   "symbol": "八咫鏡",
+   "keyword": "照らし出す力"
+  },
+  {
+   "pantheon": "日本",
+   "name": "須佐之男命",
+   "en": "Susanoo",
+   "domain": "嵐・除災・英雄",
+   "symbol": "天叢雲剣",
+   "keyword": "荒ぶる突破力"
+  },
+  {
+   "pantheon": "日本",
+   "name": "大国主命",
+   "en": "Ōkuninushi",
+   "domain": "国造り・縁結び・医薬",
+   "symbol": "打出の小槌",
+   "keyword": "縁と再起"
+  },
+  {
+   "pantheon": "日本",
+   "name": "少彦名命",
+   "en": "Sukunahikona",
+   "domain": "医薬・知恵・酒",
+   "symbol": "小さき姿",
+   "keyword": "智恵の助力"
+  },
+  {
+   "pantheon": "日本",
+   "name": "宇迦之御魂神",
+   "en": "Ukanomitama",
+   "domain": "稲・食・稲荷",
+   "symbol": "稲穂・狐",
+   "keyword": "実りと商運"
+  },
+  {
+   "pantheon": "日本",
+   "name": "木花之佐久夜毘売",
+   "en": "Konohanasakuyahime",
+   "domain": "花・富士・産",
+   "symbol": "桜",
+   "keyword": "華やぎと産育"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "ネルガル",
+   "en": "Nergal",
+   "domain": "戦・疫病・冥界",
+   "symbol": "獅子の杖",
+   "keyword": "苛烈な浄化"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "ニヌルタ",
+   "en": "Ninurta",
+   "domain": "英雄・狩猟・農耕",
+   "symbol": "弓と鋤",
+   "keyword": "勇と実り"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "ナンマ（ナンム）",
+   "en": "Nammu",
+   "domain": "原初の海・母なる淵・創造",
+   "symbol": "原初の水",
+   "keyword": "すべての始原"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "グラ",
+   "en": "Gula",
+   "domain": "医療・治癒",
+   "symbol": "犬",
+   "keyword": "癒しの手"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "ニサバ",
+   "en": "Nisaba",
+   "domain": "書記・穀物・知恵",
+   "symbol": "葦筆と穂",
+   "keyword": "記録と学芸"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "ドゥムジ",
+   "en": "Dumuzi",
+   "domain": "羊飼い・植物・季節",
+   "symbol": "羊と若枝",
+   "keyword": "巡る生命"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "ニンリル",
+   "en": "Ninlil",
+   "domain": "大気・風・運命",
+   "symbol": "風の衣",
+   "keyword": "運命の織り手"
+  },
+  {
+   "pantheon": "エジプト",
+   "name": "セト",
+   "en": "Set",
+   "domain": "嵐・砂漠・混沌と力",
+   "symbol": "セト獣",
+   "keyword": "荒ぶる変革"
+  },
+  {
+   "pantheon": "エジプト",
+   "name": "ネフティス",
+   "en": "Nephthys",
+   "domain": "死と再生・哀悼・守護",
+   "symbol": "家の象形",
+   "keyword": "静かな寄り添い"
+  },
+  {
+   "pantheon": "エジプト",
+   "name": "バステト",
+   "en": "Bastet",
+   "domain": "家庭・音楽・護り",
+   "symbol": "猫",
+   "keyword": "しなやかな守り"
+  },
+  {
+   "pantheon": "エジプト",
+   "name": "ソベク",
+   "en": "Sobek",
+   "domain": "水・ナイル・力",
+   "symbol": "ワニ",
+   "keyword": "豊かな流れ"
+  },
+  {
+   "pantheon": "エジプト",
+   "name": "クヌム",
+   "en": "Khnum",
+   "domain": "創造・陶工・生命",
+   "symbol": "牡羊とろくろ",
+   "keyword": "形づくる手"
+  },
+  {
+   "pantheon": "エジプト",
+   "name": "ヌト",
+   "en": "Nut",
+   "domain": "天空・星辰・再生",
+   "symbol": "星をまとう身体",
+   "keyword": "包み込む天"
+  },
+  {
+   "pantheon": "エジプト",
+   "name": "ゲブ",
+   "en": "Geb",
+   "domain": "大地・大地の実り",
+   "symbol": "鵞鳥",
+   "keyword": "足下の支え"
+  },
+  {
+   "pantheon": "エジプト",
+   "name": "アメン",
+   "en": "Amun",
+   "domain": "隠れたる神・王権",
+   "symbol": "羽根冠",
+   "keyword": "見えざる力"
+  },
+  {
+   "pantheon": "エジプト",
+   "name": "セシャト",
+   "en": "Seshat",
+   "domain": "記録・測量・書物",
+   "symbol": "七芒の星",
+   "keyword": "計り記す"
+  },
+  {
+   "pantheon": "エジプト",
+   "name": "タウエレト",
+   "en": "Taweret",
+   "domain": "出産・母子の守護",
+   "symbol": "カバ",
+   "keyword": "産育の護符"
+  },
+  {
+   "pantheon": "ギリシャ",
+   "name": "ポセイドン",
+   "en": "Poseidon",
+   "domain": "海・地震・馬",
+   "symbol": "三叉戟",
+   "keyword": "うねる力"
+  },
+  {
+   "pantheon": "ギリシャ",
+   "name": "ハデス",
+   "en": "Hades",
+   "domain": "冥界・富・不可視",
+   "symbol": "隠れ兜",
+   "keyword": "深部の富"
+  },
+  {
+   "pantheon": "ギリシャ",
+   "name": "ヘパイストス",
+   "en": "Hephaestus",
+   "domain": "鍛冶・工芸・火",
+   "symbol": "金床と槌",
+   "keyword": "鍛え上げる"
+  },
+  {
+   "pantheon": "ギリシャ",
+   "name": "ペルセポネ",
+   "en": "Persephone",
+   "domain": "春と冥界・往復",
+   "symbol": "柘榴",
+   "keyword": "二つの世界"
+  },
+  {
+   "pantheon": "ギリシャ",
+   "name": "ヘカテ",
+   "en": "Hecate",
+   "domain": "魔術・三叉路・境界",
+   "symbol": "松明と鍵",
+   "keyword": "岐路の導き"
+  },
+  {
+   "pantheon": "ギリシャ",
+   "name": "ニケ",
+   "en": "Nike",
+   "domain": "勝利",
+   "symbol": "翼と月桂",
+   "keyword": "勝利の翼"
+  },
+  {
+   "pantheon": "ギリシャ",
+   "name": "エロス",
+   "en": "Eros",
+   "domain": "愛・欲求・結合",
+   "symbol": "弓矢",
+   "keyword": "引き合う力"
+  },
+  {
+   "pantheon": "インド",
+   "name": "パールヴァティー",
+   "en": "Parvati",
+   "domain": "山の娘・愛・献身",
+   "symbol": "赤蓮",
+   "keyword": "寄り添う力"
+  },
+  {
+   "pantheon": "インド",
+   "name": "スーリヤ",
+   "en": "Surya",
+   "domain": "太陽・活力・眼",
+   "symbol": "七頭の馬車",
+   "keyword": "昇る生命力"
+  },
+  {
+   "pantheon": "インド",
+   "name": "チャンドラ",
+   "en": "Chandra",
+   "domain": "月・心・甘露",
+   "symbol": "三日月と鹿",
+   "keyword": "心の潮"
+  },
+  {
+   "pantheon": "インド",
+   "name": "アグニ",
+   "en": "Agni",
+   "domain": "火・供犠・変換",
+   "symbol": "炎と羊",
+   "keyword": "捧げ変える"
+  },
+  {
+   "pantheon": "インド",
+   "name": "ヴァーユ",
+   "en": "Vayu",
+   "domain": "風・生気（プラーナ）",
+   "symbol": "旗と鹿",
+   "keyword": "巡る息吹"
+  },
+  {
+   "pantheon": "インド",
+   "name": "ブリハスパティ",
+   "en": "Brihaspati",
+   "domain": "導師・木星・言葉",
+   "symbol": "数珠と経典",
+   "keyword": "師の導き"
+  },
+  {
+   "pantheon": "中国",
+   "name": "元始天尊",
+   "en": "Yuanshi Tianzun",
+   "domain": "三清・宇宙の始原",
+   "symbol": "混元珠",
+   "keyword": "万物の始まり"
+  },
+  {
+   "pantheon": "中国",
+   "name": "霊宝天尊",
+   "en": "Lingbao Tianzun",
+   "domain": "三清・万物の法則",
+   "symbol": "如意",
+   "keyword": "理法の調和"
+  },
+  {
+   "pantheon": "中国",
+   "name": "東岳大帝",
+   "en": "Dongyue Dadi",
+   "domain": "泰山・寿命・冥府の管理",
+   "symbol": "泰山の印",
+   "keyword": "定めの管理"
+  },
+  {
+   "pantheon": "中国",
+   "name": "九天玄女",
+   "en": "Jiutian Xuannü",
+   "domain": "兵法・秘術・天授",
+   "symbol": "兵書",
+   "keyword": "秘された智"
+  },
+  {
+   "pantheon": "中国",
+   "name": "月下老人",
+   "en": "Yuexia Laoren",
+   "domain": "縁結び・赤い糸",
+   "symbol": "赤縄と姻縁簿",
+   "keyword": "結ばれる縁"
+  },
+  {
+   "pantheon": "中国",
+   "name": "竈神",
+   "en": "Zaoshen",
+   "domain": "家庭・台所・年末の奏上",
+   "symbol": "竈",
+   "keyword": "日々の見守り"
+  },
+  {
+   "pantheon": "中国",
+   "name": "土地公",
+   "en": "Tudigong",
+   "domain": "土地・地域の守護",
+   "symbol": "杖と福袋",
+   "keyword": "足元の加護"
+  },
+  {
+   "pantheon": "中国",
+   "name": "城隍神",
+   "en": "Chenghuangshen",
+   "domain": "都市の守護・善悪の記録",
+   "symbol": "城壁と帳簿",
+   "keyword": "公正な記録"
+  },
+  {
+   "pantheon": "中国",
+   "name": "三官大帝",
+   "en": "Sanguan Dadi",
+   "domain": "天官賜福・地官赦罪・水官解厄",
+   "symbol": "三巻の帳",
+   "keyword": "赦しと解厄"
+  },
+  {
+   "pantheon": "中国",
+   "name": "八仙",
+   "en": "Baxian",
+   "domain": "八人の仙人・各々の妙技",
+   "symbol": "八宝",
+   "keyword": "多様な達成"
+  },
+  {
+   "pantheon": "日本",
+   "name": "恵比寿",
+   "en": "Ebisu",
+   "domain": "商売繁盛・漁業・福",
+   "symbol": "鯛と釣竿",
+   "keyword": "もたらす福"
+  },
+  {
+   "pantheon": "日本",
+   "name": "建御雷神",
+   "en": "Takemikazuchi",
+   "domain": "雷・剣・決断",
+   "symbol": "布都御魂剣",
+   "keyword": "断ち切る決断"
+  },
+  {
+   "pantheon": "日本",
+   "name": "天宇受売命",
+   "en": "Ame-no-Uzume",
+   "domain": "芸能・笑い・岩戸開き",
+   "symbol": "鈴と榊",
+   "keyword": "場を開く明るさ"
+  },
+  {
+   "pantheon": "日本",
+   "name": "猿田彦神",
+   "en": "Sarutahiko",
+   "domain": "道開き・導き・交通",
+   "symbol": "鉾と天狗面",
+   "keyword": "道を拓く"
+  },
+  {
+   "pantheon": "日本",
+   "name": "思兼神",
+   "en": "Omoikane",
+   "domain": "知恵・思慮・策",
+   "symbol": "思案の姿",
+   "keyword": "熟慮の智"
+  },
+  {
+   "pantheon": "日本",
+   "name": "天手力男神",
+   "en": "Ame-no-Tajikarao",
+   "domain": "力・岩戸開き・勝負",
+   "symbol": "岩戸",
+   "keyword": "踏ん張る力"
+  },
+  {
+   "pantheon": "日本",
+   "name": "祓戸大神",
+   "en": "Haraedo-no-Okami",
+   "domain": "祓い・罪穢の除去",
+   "symbol": "祓串",
+   "keyword": "流し清める"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "ニンギリマ",
+   "en": "Ningirima",
+   "domain": "呪文・浄化・蛇と水",
+   "symbol": "聖水の器",
+   "keyword": "祓い清める言葉"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "ナンシェ",
+   "en": "Nanshe",
+   "domain": "夢占い・正義・漁と水路",
+   "symbol": "魚",
+   "keyword": "夢を読み解く"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "ニンシュブル",
+   "en": "Ninshubur",
+   "domain": "伝令・随伴・仲介",
+   "symbol": "杖",
+   "keyword": "取り次ぐ者"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "クス",
+   "en": "Kusu",
+   "domain": "浄化の祭儀・香炉・穀物",
+   "symbol": "香炉",
+   "keyword": "場を浄める"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "ヌスカ",
+   "en": "Nusku",
+   "domain": "灯火・光・夜の守り",
+   "symbol": "灯明",
+   "keyword": "闇を照らす"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "アヤ（シェリダ）",
+   "en": "Aya (Sherida)",
+   "domain": "暁の光・愛・太陽神の妃",
+   "symbol": "曙光",
+   "keyword": "夜明けの兆し"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "ラマ",
+   "en": "Lama",
+   "domain": "守護霊・加護・執り成し",
+   "symbol": "祈る女性像",
+   "keyword": "寄り添う守り"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "ゲシュティンアンナ",
+   "en": "Geshtinanna",
+   "domain": "夢の解釈・詩歌・書記",
+   "symbol": "葡萄の蔓",
+   "keyword": "夢と言葉"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "ニンギシュジダ",
+   "en": "Ningishzida",
+   "domain": "樹木・冥界の門・蛇杖",
+   "symbol": "絡み合う二匹の蛇",
+   "keyword": "境を渡る導き"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "ニンカシ",
+   "en": "Ninkasi",
+   "domain": "醸造・酒・饗宴",
+   "symbol": "醸造壺",
+   "keyword": "発酵と歓び"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "ニンエガル",
+   "en": "Ninegal",
+   "domain": "宮殿の女主・王権の座",
+   "symbol": "宮殿",
+   "keyword": "居場所を定める"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "ニンアズ",
+   "en": "Ninazu",
+   "domain": "医薬・冥界・治癒",
+   "symbol": "蛇竜",
+   "keyword": "癒しと再生"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "ニンガル",
+   "en": "Ningal",
+   "domain": "葦原・月神の妃・夢の託宣",
+   "symbol": "葦",
+   "keyword": "静かな受容"
+  },
+  {
+   "pantheon": "メソポタミア",
+   "name": "アルル",
+   "en": "Aruru",
+   "domain": "人間の創造・母神",
+   "symbol": "粘土",
+   "keyword": "形を与える"
+  },
+  {
+   "pantheon": "エジプト",
+   "name": "ワジェト",
+   "en": "Wadjet",
+   "domain": "下エジプトの守護・王冠のコブラ",
+   "symbol": "ウラエウス（コブラ）",
+   "keyword": "王を守る眼"
+  },
+  {
+   "pantheon": "インド",
+   "name": "アーパス",
+   "en": "Apas",
+   "domain": "水・浄め・生命の流れ",
+   "symbol": "流水",
+   "keyword": "清める流れ"
+  },
+  {
+   "pantheon": "インド",
+   "name": "アディティ",
+   "en": "Aditi",
+   "domain": "無限・母なる広がり・解放",
+   "symbol": "無辺の空",
+   "keyword": "束縛を解く"
+  },
+  {
+   "pantheon": "インド",
+   "name": "バガ",
+   "en": "Bhaga",
+   "domain": "分配・幸運・富の割り当て",
+   "symbol": "分け与える手",
+   "keyword": "与えられる分"
+  },
+  {
+   "pantheon": "インド",
+   "name": "アリヤマン",
+   "en": "Aryaman",
+   "domain": "友愛・婚姻・盟約",
+   "symbol": "結ばれた手",
+   "keyword": "絆の守り"
+  },
+  {
+   "pantheon": "インド",
+   "name": "プーシャン",
+   "en": "Pushan",
+   "domain": "道中の守護・家畜・導き",
+   "symbol": "道と山羊",
+   "keyword": "旅路の加護"
+  },
+  {
+   "pantheon": "インド",
+   "name": "ブラフマナスパティ",
+   "en": "Brahmanaspati",
+   "domain": "祈禱の主・聖句の力",
+   "symbol": "祭火と聖句",
+   "keyword": "言葉の威力"
+  },
+  {
+   "pantheon": "インド",
+   "name": "ウシャス",
+   "en": "Ushas",
+   "domain": "暁・新生・希望",
+   "symbol": "曙の光",
+   "keyword": "新しい始まり"
+  },
+  {
+   "pantheon": "インド",
+   "name": "ラートリー",
+   "en": "Ratri",
+   "domain": "夜・休息・庇護",
+   "symbol": "星の帳",
+   "keyword": "安らぎの闇"
+  },
+  {
+   "pantheon": "インド",
+   "name": "ソーマ",
+   "en": "Soma",
+   "domain": "神酒・月・霊感",
+   "symbol": "蘇摩の杯",
+   "keyword": "高揚と霊感"
+  },
+  {
+   "pantheon": "インド",
+   "name": "ミトラ",
+   "en": "Mitra",
+   "domain": "契約・友好・昼の秩序",
+   "symbol": "誓いの絆",
+   "keyword": "約束を守る"
+  },
+  {
+   "pantheon": "インド",
+   "name": "ヴァルナ",
+   "en": "Varuna",
+   "domain": "天則（リタ）・水・裁き",
+   "symbol": "縄と水",
+   "keyword": "理法の監督"
+  },
+  {
+   "pantheon": "インド",
+   "name": "ナーサティヤ（アシュヴィン）",
+   "en": "Nasatya (Ashvins)",
+   "domain": "双神・医療・救援",
+   "symbol": "二頭の馬",
+   "keyword": "危急の救い"
+  },
+  {
+   "pantheon": "インド",
+   "name": "プリトヴィ",
+   "en": "Prithvi",
+   "domain": "大地・母なる支え",
+   "symbol": "大地",
+   "keyword": "支える大地"
+  },
+  {
+   "pantheon": "インド",
+   "name": "トヴァシュトリ",
+   "en": "Tvashtri",
+   "domain": "工匠・形の創出",
+   "symbol": "斧と器",
+   "keyword": "形をつくる"
+  },
+  {
+   "pantheon": "インド",
+   "name": "ヴァーチュ",
+   "en": "Vach",
+   "domain": "言葉・聖なる語・弁舌",
+   "symbol": "声",
+   "keyword": "語りだす力"
+  },
+  {
+   "pantheon": "中国",
+   "name": "炎帝神農",
+   "en": "Yandi Shennong",
+   "domain": "農耕・医薬・百草の試味",
+   "symbol": "薬草と鋤",
+   "keyword": "滋養と癒し"
+  },
+  {
+   "pantheon": "日本",
+   "name": "天之御中主神",
+   "en": "Ame-no-Minakanushi",
+   "domain": "天地開闢の中心・根源",
+   "symbol": "北極星",
+   "keyword": "静かな中心"
+  },
+  {
+   "pantheon": "日本",
+   "name": "建御名方神",
+   "en": "Takeminakata",
+   "domain": "力・諏訪・農耕と狩猟",
+   "symbol": "梶の葉",
+   "keyword": "粘り強い力"
+  },
+  {
+   "pantheon": "日本",
+   "name": "倭文神",
+   "en": "Shitorigami",
+   "domain": "織物・機織り・結界",
+   "symbol": "倭文の織",
+   "keyword": "織りなす技"
+  },
+  {
+   "pantheon": "日本",
+   "name": "菊理媛",
+   "en": "Kukurihime",
+   "domain": "仲裁・和合・白山の守護",
+   "symbol": "括りの糸",
+   "keyword": "結び直す"
+  },
+  {
+   "pantheon": "日本",
+   "name": "座摩神",
+   "en": "Ikasuri-no-Kami",
+   "domain": "居宅・土地の鎮め・井戸",
+   "symbol": "屋敷地",
+   "keyword": "住まいの安寧"
+  },
+  {
+   "pantheon": "日本",
+   "name": "五十猛神",
+   "en": "Isotakeru",
+   "domain": "植樹・山林・造船",
+   "symbol": "樹と船",
+   "keyword": "育て広げる"
+  },
+  {
+   "pantheon": "日本",
+   "name": "久延毘古",
+   "en": "Kuebiko",
+   "domain": "知識・案山子・世事に通ず",
+   "symbol": "案山子",
+   "keyword": "動かず知る"
+  },
+  {
+   "pantheon": "日本",
+   "name": "事代主神",
+   "en": "Kotoshironushi",
+   "domain": "託宣・恵比寿習合・海",
+   "symbol": "釣り竿",
+   "keyword": "託宣と福"
+  },
+  {
+   "pantheon": "日本",
+   "name": "塩土老翁",
+   "en": "Shiotsuchi-no-Oji",
+   "domain": "航海・製塩・道を教える翁",
+   "symbol": "塩と潮路",
+   "keyword": "進路を示す"
+  }
+ ]
+}

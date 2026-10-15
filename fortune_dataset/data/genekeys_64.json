@@ -1,0 +1,330 @@
+{
+ "keys": [
+  {
+   "gate": 1,
+   "key_name": "自己表現",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 2,
+   "key_name": "方向性",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 3,
+   "key_name": "秩序",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 4,
+   "key_name": "答え",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 5,
+   "key_name": "タイミング",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 6,
+   "key_name": "摩擦",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 7,
+   "key_name": "役割",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 8,
+   "key_name": "貢献",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 9,
+   "key_name": "集中",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 10,
+   "key_name": "自己",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 11,
+   "key_name": "アイデア",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 12,
+   "key_name": "慎重",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 13,
+   "key_name": "協力",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 14,
+   "key_name": "力",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 15,
+   "key_name": "極端",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 16,
+   "key_name": "スキル",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 17,
+   "key_name": "意見",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 18,
+   "key_name": "修正",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 19,
+   "key_name": "欲求",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 20,
+   "key_name": "現状",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 21,
+   "key_name": "ハンター",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 22,
+   "key_name": "開かれる",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 23,
+   "key_name": "同化",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 24,
+   "key_name": "合理化",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 25,
+   "key_name": "無邪気",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 26,
+   "key_name": "自己変革",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 27,
+   "key_name": "思いやり",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 28,
+   "key_name": "ゲーム",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 29,
+   "key_name": "固執",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 30,
+   "key_name": "感情",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 31,
+   "key_name": "リーダー",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 32,
+   "key_name": "持続",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 33,
+   "key_name": "撤退",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 34,
+   "key_name": "偉大",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 35,
+   "key_name": "変化",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 36,
+   "key_name": "危機",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 37,
+   "key_name": "友情",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 38,
+   "key_name": "戦士",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 39,
+   "key_name": "妨害",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 40,
+   "key_name": "解放",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 41,
+   "key_name": "減少",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 42,
+   "key_name": "成長",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 43,
+   "key_name": "突破",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 44,
+   "key_name": "不寛容",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 45,
+   "key_name": "集合",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 46,
+   "key_name": "決定",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 47,
+   "key_name": "順応",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 48,
+   "key_name": "深み",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 49,
+   "key_name": "原理",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 50,
+   "key_name": "価値",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 51,
+   "key_name": "覚醒",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 52,
+   "key_name": "静止",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 53,
+   "key_name": "後退",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 54,
+   "key_name": "野心",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 55,
+   "key_name": "精神",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 56,
+   "key_name": "豊かさ",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 57,
+   "key_name": "直感",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 58,
+   "key_name": "完成",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 59,
+   "key_name": "親密",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 60,
+   "key_name": "現実",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 61,
+   "key_name": "詳細",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 62,
+   "key_name": "誠実",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 63,
+   "key_name": "疑い",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  },
+  {
+   "gate": 64,
+   "key_name": "迷い",
+   "note": "ゲート名はHuman Designの64ゲートに対応（ジーンキーズのキー名と同一）"
+  }
+ ],
+ "usage": "太陽ゲートのみ使用（簡易版）",
+ "source": "Human Design 64ゲート名（HD_GATES・astrology.py）",
+ "status": "確定（簡易版）",
+ "notes": [
+  "ジーンキーズのギフト・シャドウの詳細解説は商標体系（genekeys.com）のため収録せず、LLMがゲート名から体系に沿って解釈する"
+ ]
+}
